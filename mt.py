@@ -12,7 +12,7 @@
 # 5. Store RDF and abstract
 # 6. Profit
 
-# In[127]:
+# In[5]:
 
 
 # Imports and gobals
@@ -46,7 +46,7 @@ API_URL_MUSIC = HUGGING_FACE_PREFIX + MUSIC_MODEL
 headers = {"Authorization": "Bearer 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"}
 
 
-# In[42]:
+# In[ ]:
 
 
 with open('CUBE_CSpace.json') as f:
@@ -60,7 +60,7 @@ with open('CUBE_1K.json') as f:
 print(len(cube_1k))
 
 
-# In[139]:
+# In[6]:
 
 
 def gen_text(item):
@@ -155,13 +155,78 @@ def gen_video(item):
 
 
 
-# In[138]:
+# In[7]:
 
 
-# For now let's do 10
+# Empty output directories
 
-# cleanup!
-for i in cube_1k:
+import os, shutil
+
+folders = ['braille', 'img', 'music', 'speech', 'txt', 'video']
+
+def empty_folder(path):
+    folder = path
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
+
+
+for f in folders:
+    empty_folder(f)
+
+
+# In[ ]:
+
+
+# Sample
+
+# 5 random cuisine, 5 random art, 5 random landmark
+
+import random
+
+foo = ['a', 'b', 'c', 'd', 'e']
+print(random.choice(foo))
+
+cuisine = []
+art = []
+landmarks = []
+
+for item in cube_1k:
+    if item["id"]:
+        if item["domain"] == 'cuisine':
+            cuisine.append(item)
+        elif item["domain"] == 'art':
+            art.append(item)
+        elif item["domain"] == 'landmarks':
+            landmarks.append(item)
+
+items = []
+for i in range(0,2):
+    items.append(random.choice(cuisine))
+
+for i in range(0,2):
+    items.append(random.choice(art))
+
+for i in range(0,2):
+    items.append(random.choice(landmarks))
+        
+
+
+
+
+# In[ ]:
+
+
+for i in items:
+    # if cube_1k[i]["id"] and cube_1k[i]["id"][0] != 'Q':
+    #     continue
+    
     # Text
     text_gen = gen_text(i)
 
@@ -186,7 +251,7 @@ for i in cube_1k:
     # https://github.com/Stability-AI/stable-fast-3d
 
 with open('CUBE_MT.json', 'w') as fp:
-    json.dump(cube_1k, fp)
+    json.dump(items, fp)
 
 
 # In[ ]:
