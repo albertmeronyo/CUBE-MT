@@ -250,6 +250,8 @@ items = cube_1k
 
 for i in items:
     # Skip all non-Wikidata items
+    if not i["id"]:
+        continue
     if i["id"] and i["id"][0] != 'Q':
         continue
     
