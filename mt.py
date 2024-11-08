@@ -12,7 +12,7 @@
 # 5. Store RDF and abstract
 # 6. Profit
 
-# In[5]:
+# In[4]:
 
 
 # Imports and gobals
@@ -46,25 +46,36 @@ API_URL_MUSIC = HUGGING_FACE_PREFIX + MUSIC_MODEL
 headers = {"Authorization": "Bearer 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"}
 
 
-# In[ ]:
+# In[5]:
 
 
-with open('CUBE_CSpace.json') as f:
-    cube_scs = json.load(f)
+# with open('CUBE_CSpace.json') as f:
+#     cube_scs = json.load(f)
 
-print(len(cube_scs))
+# cube_1k = cube_scs
 
 with open('CUBE_1K.json') as f:
     cube_1k = json.load(f)
 
-print(len(cube_1k))
+print("Dataset loaded with {} items".format(len(cube_1k)))
 
 
-# In[6]:
+# In[10]:
 
+
+demonym = {
+        "Brazil": "Brazilian",
+        "France": "French",
+        "India": "Indian",
+        "Italy": "Italian",
+        "Japan": "Japanese",
+        "Nigeria": "Nigerian",
+        "Turkey": "Turkish",
+        "USA": "American"
+    }
 
 def gen_text(item):
-    text_prompt = "A one sentence textual description of {} from {} {}".format(item["name"], item["country"], item["domain"])
+    text_prompt = "A one sentence textual description of {} from {} {}".format(item["name"], demonym[item["country"]], item["domain"])
     # payload_text = { // TODO
     #     "inputs": "{}".format(text_prompt),
     # }
@@ -113,21 +124,33 @@ def gen_speech(item, text_gen):
     return
 
 def gen_image(item):
+    # safety net
+    image_prompt = item["prompt"]
+
+    # if item["domain"] in ["landmarks", "landscapes"]:
+    #     image_prompt = "A panoramic view of {} in {}, realistic".format(item["name"], item["country"])
+    # elif item["domain"] == "cuisine":
+    #     image_prompt = "A high resolution image of {} from {} cuisine, realistic".format(item["name"], demonym[item["country"]])
+    # elif item["domain"] == "art":
+    #     # TODO: Needs to support different prompts for dances, clothing, etc.
+    #     image_prompt = "An image of cocktail dress from American clothing, realistic".format(item["name"], demonym[item["country"]])
+
+
     payload_image = {
-        "inputs": "{}".format(item["prompt"]),
+        "inputs": "{}".format(image_prompt),
     }
     response = requests.post(API_URL_IMAGE, headers=headers, json=payload_image)
     image_bytes = response.content
     image = Image.open(io.BytesIO(image_bytes))
     image.save("img/{}.png".format(item["id"]))
-    print(item["id"], item["prompt"])
-    item["prompt_image"] = item["prompt"]
+    print(item["id"], image_prompt)
+    item["prompt_image"] = image_prompt
     item["gen_image"] = "img/{}.png".format(item["id"])
     time.sleep(5)
     return
 
 def gen_music(item):
-    prompt_music = "A short song representing {} from {} {}".format(item["name"], item["country"], item["domain"])
+    prompt_music = "A short song representing {} from {} {}".format(item["name"], demonym[item["country"]], item["domain"])
     payload_music = {
         "inputs": prompt_music,
     }
@@ -155,7 +178,7 @@ def gen_video(item):
 
 
 
-# In[7]:
+# In[11]:
 
 
 # Empty output directories
@@ -181,7 +204,7 @@ for f in folders:
     empty_folder(f)
 
 
-# In[ ]:
+# In[12]:
 
 
 # Sample
@@ -190,8 +213,8 @@ for f in folders:
 
 import random
 
-foo = ['a', 'b', 'c', 'd', 'e']
-print(random.choice(foo))
+# foo = ['a', 'b', 'c', 'd', 'e']
+# print(random.choice(foo))
 
 cuisine = []
 art = []
@@ -223,9 +246,12 @@ for i in range(0,2):
 # In[ ]:
 
 
+items = cube_1k
+
 for i in items:
-    # if cube_1k[i]["id"] and cube_1k[i]["id"][0] != 'Q':
-    #     continue
+    # Skip all non-Wikidata items
+    if i["id"] and i["id"][0] != 'Q':
+        continue
     
     # Text
     text_gen = gen_text(i)
