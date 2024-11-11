@@ -60,7 +60,7 @@ with open('CUBE_1K.json') as f:
 print("Dataset loaded with {} items".format(len(cube_1k)))
 
 
-# In[10]:
+# In[ ]:
 
 
 demonym = {
@@ -93,7 +93,7 @@ def gen_text(item):
     print(item["id"], text_gen)
     item["prompt_text"] = text_prompt
     item["gen_text"] = "txt/{}.txt".format(item["id"])
-    time.sleep(5)
+    # time.sleep(5)
     return text_gen
 
 def gen_braille(item, text_gen):
@@ -106,7 +106,7 @@ def gen_braille(item, text_gen):
         print("TypeError when converting string to braille, possibly non-unicode?")
         pass
     item["gen_braille"] = "braille/{}.txt".format(item["id"])
-    time.sleep(1)
+    # time.sleep(1)
     return
 
 def gen_speech(item, text_gen):
@@ -120,7 +120,7 @@ def gen_speech(item, text_gen):
     print(item["id"], "generated speech for: {}".format(text_gen))
     item["prompt_speech"] = text_gen
     item["gen_speech"] = "speech/{}.wav".format(item["id"])
-    time.sleep(5)
+    # time.sleep(5)
     return
 
 def gen_image(item):
@@ -146,7 +146,7 @@ def gen_image(item):
     print(item["id"], image_prompt)
     item["prompt_image"] = image_prompt
     item["gen_image"] = "img/{}.png".format(item["id"])
-    time.sleep(5)
+    # time.sleep(5)
     return
 
 def gen_music(item):
@@ -161,7 +161,7 @@ def gen_music(item):
     print(item["id"], prompt_music)
     item["prompt_music"] = prompt_music
     item["gen_music"] = "music/{}.wav".format(item["id"])
-    time.sleep(5)
+    # time.sleep(5)
 
 def gen_video(item):
     audio_clip = AudioFileClip("music/{}.wav".format(item["id"]))
