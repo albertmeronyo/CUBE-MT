@@ -12,7 +12,7 @@
 # 5. Store RDF and abstract
 # 6. Profit
 
-# In[4]:
+# In[14]:
 
 
 # Imports and gobals
@@ -46,7 +46,7 @@ API_URL_MUSIC = HUGGING_FACE_PREFIX + MUSIC_MODEL
 headers = {"Authorization": "Bearer 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"}
 
 
-# In[5]:
+# In[15]:
 
 
 # with open('CUBE_CSpace.json') as f:
@@ -60,7 +60,7 @@ with open('CUBE_1K.json') as f:
 print("Dataset loaded with {} items".format(len(cube_1k)))
 
 
-# In[ ]:
+# In[16]:
 
 
 demonym = {
@@ -181,7 +181,7 @@ def gen_video(item):
 
 
 
-# In[11]:
+# In[17]:
 
 
 # Empty output directories
@@ -207,7 +207,7 @@ for f in folders:
     empty_folder(f)
 
 
-# In[12]:
+# In[18]:
 
 
 # Sample
@@ -246,8 +246,10 @@ for i in range(0,2):
 
 
 
-# In[ ]:
+# In[19]:
 
+
+import traceback
 
 items = cube_1k
 
@@ -258,31 +260,59 @@ for i in items:
     if i["id"] and i["id"][0] != 'Q':
         continue
     
-    # Text
-    text_gen = gen_text(i)
+    
+    try:
+        # Text
+        text_gen = gen_text(i)
+    except Exception as e:
+        print("Error processing text_gen for item {}".format(i["id"]))
+        print(traceback.format_exc())
+        continue
 
-    # Braille
-    gen_braille(i, text_gen)
+    try:
+        # Braille
+        gen_braille(i, text_gen)
+    except Exception as e:
+        print("Error processing gen_braille for item {}".format(i["id"]))
+        print(traceback.format_exc())
+        continue
 
-    # Speech
-    gen_speech(i, text_gen)
+    try:
+        # Speech
+        gen_speech(i, text_gen)
+    except Exception as e:
+        print("Error processing gen_speech for item {}".format(i["id"]))
+        print(traceback.format_exc())
+        continue
 
-    # Image
-    gen_image(i)
+    try:
+        # Image
+        gen_image(i)
+    except Exception as e:
+        print("Error processing gen_image for item {}".format(i["id"]))
+        print(traceback.format_exc())
+        continue
 
-    # Music
-    gen_music(i)
+    try:
+        # Music
+        gen_music(i)
+    except Exception as e:
+        print("Error processing gen_music for item {}".format(i["id"]))
+        print(traceback.format_exc())
+        continue
 
-    # Video (by composing image, speech, music)
-    # TODO: moviepy seems to break with our saved wav files
-    # gen_video(cube_1k[i])
+        # Video (by composing image, speech, music)
+        # TODO: moviepy seems to break with our saved wav files
+        # gen_video(cube_1k[i])
 
-    # 3d geometry
-    # TODO: with local models from stabilityai, tencent, etc
-    # https://github.com/Stability-AI/stable-fast-3d
-
+        # 3d geometry
+        # TODO: with local models from stabilityai, tencent, etc
+        # https://github.com/Stability-AI/stable-fast-3d
+    
+    
 with open('CUBE_MT.json', 'w') as fp:
     json.dump(items, fp)
+
 
 
 # In[ ]:
