@@ -87,7 +87,10 @@ def gen_text(item):
     }
     response = requests.post(API_URL_TEXT, headers=headers, json=payload_text)
     with open('txt/{}.txt'.format(item["id"]), 'w') as textfile:
-        text_gen = response.json()["choices"][0]["message"]["content"]
+        text_gen = ""
+        if response.json()["choices"]:
+            text_gen = response.json()["choices"][0]["message"]["content"]
+        # text_gen = response.json()["choices"][0]["message"]["content"]
         textfile.write(text_gen)
     print(item["id"], text_prompt)
     print(item["id"], text_gen)
