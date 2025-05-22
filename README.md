@@ -1,5 +1,7 @@
 # CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models
 
+[[https://raw.githubusercontent.com/albertmeronyo/CUBE-MT/master/examples.png]]
+
 CUBE-MT (CUltural BEnchmark with Multimodal Transformations) is an extension to the CUltural BEnchmark for Text-to-Image models ([CUBE](https://github.com/google-research-datasets/cube/tree/main)). CUBE contains 300K cultural artifacts across 8 countries (Brazil, France, India, Italy, Japan, Nigeria, Turkey, and USA) and 3 domains (cuisine, landmarks, art) extracted from Wikidata; and 1K text-to-image generation prompts that enable evaluation of cultural awareness of generative AI models. 
 These prompts are automatically generated from the Wikidata KG properties directly, and thus the KG plays the key role of being the central and unique source of authoritative knowledge.
 
