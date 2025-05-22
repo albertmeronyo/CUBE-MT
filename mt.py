@@ -43,7 +43,7 @@ API_URL_TEXT = HUGGING_FACE_PREFIX + TEXT_MODEL
 API_URL_SPEECH = HUGGING_FACE_PREFIX + SPEECH_MODEL
 API_URL_MUSIC = HUGGING_FACE_PREFIX + MUSIC_MODEL
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer TOKEN"}
 
 
 # In[3]:
