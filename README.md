@@ -14,7 +14,7 @@ CUBE-MT extends CUBE in various ways:
 The CUBE-MT dataset consists of:
 
 *  The [CUBE-MT.json](CUBE-MT.json)  metadata file
-*  A [data dump](https://emckclac-my.sharepoint.com/:u:/g/personal/k2037030_kcl_ac_uk/EXq1lYs06n1Lg_flWv1mM0kBvrxFMSVRcx5R21JXKpJrMQ?e=rDQiFQ) with the results of the benchmark and generated modalities
+*  A [data dump](https://emckclac-my.sharepoint.com/:u:/g/personal/k2037030_kcl_ac_uk/EXq1lYs06n1Lg_flWv1mM0kBvrxFMSVRcx5R21JXKpJrMQ?e=rDQiFQ) with the results of the benchmark and generated modalities *(NOTE: not included in this repo to keep it light)*
 
 ## Using the benchmark
 
