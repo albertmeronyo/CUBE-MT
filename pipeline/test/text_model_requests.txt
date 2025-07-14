@@ -1,0 +1,53 @@
+Test that the models are working using the following cmd: 
+
+## NOT AVAILABLE 
+## Phi-3-mini-4k-instruct
+# Ref: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
+curl -X POST "https://router.huggingface.co/featherless-ai/v1/chat/completions"   \
+-H "Authorization: Bearer HF_TOKEN"   -H "Content-Type: application/json"  \
+-d '{
+"messages": [
+    {
+    "role": "user",
+    "content": "A one sentence textual description of Pão de queijo from Brazilian cuisine"
+    }
+],
+"model": "microsoft/Phi-3-mini-4k-instruct"
+}'
+
+
+
+## Mistral-Nemo-Instruct-2407
+# Ref: https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407?inference_api=true&inference_provider=nebius&language=python
+curl -X POST "https://router.huggingface.co/nebius/v1/chat/completions" \
+  -H "Authorization: Bearer HF_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "messages": [
+      {
+        "role": "user",
+        "content":  "A one sentence textual description of Pão de queijo from Brazilian cuisine"
+      }
+    ],
+    "model": "mistralai/Mistral-Nemo-Instruct-2407"
+  }'
+
+
+## llama-v3p1-8b-instruct
+# Ref: https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407?inference_api=true&inference_provider=nebius&language=python
+  curl -X POST "https://router.huggingface.co/fireworks-ai/inference/v1/chat/completions" \
+  -H "Authorization: Bearer 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" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "messages": [
+      {
+        "role": "user",
+        "content":  "A one sentence textual description of Pão de queijo from Brazilian cuisine"
+      }
+    ],
+    "model": "accounts/fireworks/models/llama-v3p1-8b-instruct"
+  }
+
+
+ 
+## GEMMA-2-2b-it is 
