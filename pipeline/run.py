@@ -28,9 +28,45 @@ def text_to_multimodal(logger : Logger, input: str = "input/schedule.json"):
             continue
 
 
-        
+        process_item(input_file, output_dir, cache_dir, logger)
         logger.info(f"Processing input file: {input_file} with output directory: {output_dir}")
 
+
+def generate_modalities(item: dict, logger: Logger, output_dir: str, config: dict):
+        text_sucess, text_gen = gen_text(item, logger, output_dir)
+
+        if not text_sucess:
+            raise ValueError(f"Failed to generate text for item {item['id']}")
+
+        braille_success = gen_braille(item, text_gen, logger, output_dir)
+
+        if not braille_success:
+            logger.error(f"Failed to generate braille for item {item['id']}")
+            raise ValueError(f"Failed to generate braille for item {item['id']}")
+        
+        speech_success = gen_speech(item, text_gen, logger, output_dir, config)
+
+        if not speech_success: 
+            raise ValueError(f"Failed to generate sppech for item {item['id']}")
+
+        image_success = gen_image(item)
+
+        if not image_success:
+            raise ValueError(f"Failed to generate image for item {item['id']}")
+        
+        speech_success = gen_speech(item, text_gen, logger, output_dir, config)
+
+        if not speech_success: 
+            raise ValueError(f"Failed to generate speech for item {item['id']}")
+        
+        music_success = gen_music(item, logger, output_dir)
+        if not music_success:
+            raise ValueError(f"Failed to generate music for item {item['id']}")
+
+        three_d_success = gen_3d(item, logger, output_dir)
+
+        if not three_d_success:
+            raise ValueError(f"Failed to generate 3D model for item {item['id']}")
 
 def process_item(input_file: str, output_dir: str, cache_dir: Path, logger: Logger):
 
@@ -47,23 +83,11 @@ def process_item(input_file: str, output_dir: str, cache_dir: Path, logger: Logg
         logger.error(f"Error reading {input_file}: {e}")
         return
     
-
     for index, item in enumerate(data[last_index:], start=last_index):
         logger.info(f"Processing item {index} from {input_file}")
 
-        gen_text(item, logger, output_dir)
-
-        #TODO: Rewrite gen_braille, gen_speech, gen_image
-
-
-
-
-
-    
-
-
-    
-
+        # Will generate modalities using default models stated in `models.py`
+        generate_modalities(item, logger, output_dir) 
 
 if __name__ == "__main__":
     logger = setup_logging()
