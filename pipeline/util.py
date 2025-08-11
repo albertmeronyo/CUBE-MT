@@ -1,23 +1,36 @@
 import logging
 from pathlib import Path
 import json
+from logging import Logger
+import os
+from datetime import datetime
 
 
-LOG_PATH = "/system/logs"
-CACHE_PATH = "/system/cache"
+# LOG_PATH = "/system/logs"
+LOG_PATH = "/home/ubuntu/Xin_Fan/CUBE-MT/pipeline/system/logs"
+# CACHE_PATH = "/system/cache"
+CACHE_PATH = "/home/ubuntu/Xin_Fan/CUBE-MT/pipeline/system/cache"
 
 def setup_logging():
+    # create a log file 
+    log_dir = Path(LOG_PATH)
+    log_dir.mkdir(parents=True, exist_ok=True)
+    curr_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    log_file = log_dir / f"{curr_time}.log"
+    
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler(LOG_PATH),
+            logging.FileHandler(log_file),
             logging.StreamHandler()  # Also log to console
         ]
     )
+    
+    return logging.getLogger(__name__)
 
 def setup_cache(): 
-    cache_dir = Path("/system/cache")
+    cache_dir = Path(CACHE_PATH)
     cache_dir.mkdir(parents=True, exist_ok=True)
 
     return cache_dir
@@ -27,7 +40,7 @@ def setup_placeholders(output_dir: str, logger: logging.Logger):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    subfolders = ["3d", "music", "braille", "img", "speech"]
+    subfolders = ["3d", "music", "braille", "img", "speech", "text"]
     for subfolder in subfolders:
         subfolder_path = output_path / subfolder
         subfolder_path.mkdir(exist_ok=True)
@@ -66,7 +79,7 @@ def get_last_processed_index(input_file: str, cache_dir: Path, logger: logging.L
 
     cache_filename = Path(input_file).stem + "_cache.json"
     cache_path = cache_dir / cache_filename
-    
+    last_processed = 0
     if cache_path.exists():
         logger.info(f"Cache file found: {cache_path}")
         
@@ -89,6 +102,8 @@ def get_last_processed_index(input_file: str, cache_dir: Path, logger: logging.L
         cache_data = {"last_processed_index": last_processed}
         with open(cache_path, 'w') as f:
             json.dump(cache_data, f, indent=2)
+            
+    return last_processed
 
 
 def write_text(text_file :str, text_content : str, logger: Logger) -> bool:

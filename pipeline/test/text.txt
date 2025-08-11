@@ -1,0 +1,17 @@
+ curl -X POST "https://router.huggingface.co/fireworks-ai/inference/v1/chat/completions" \
+>   -H "Authorization: Bearer HF_TOKEN" \
+>   -H "Content-Type: application/json" \
+>   -d '{
+>     "messages": [
+>       {
+>         "role": "user",
+>         "content": "A one sentence textual description of Pão de queijo from Brazilian cuisine"
+>       }
+>     ],
+>     "model": "accounts/fireworks/models/llama-v3p1-8b-instruct"
+>   }'
+
+
+{"id":"d730b943-da76-4237-b50d-21bce328d082","object":"chat.completion","created":1754903579,"model":"accounts/fireworks/models/llama-v3p1-8b-instruct","choices":[{"index":0,"message":{"role":"assistant","content":
+"Pão de queijo is a traditional Brazilian cheese bread that consists of small, crispy-on-the-outside and fluffy-on-the-inside balls of cheese-filled dough, typically made from a mixture of melted cheese, eggs, and flour.
+"},"finish_reason":"stop"}],"usage":{"prompt_tokens":24,"total_tokens":72,"completion_tokens":48}}

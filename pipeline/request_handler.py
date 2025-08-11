@@ -3,7 +3,7 @@ import time
 from models import *
 import logging
 from moviepy import AudioFileClip, ImageClip, CompositeAudioClip
-from typing import Optional, Dict
+from typing import Optional, Dict, Tuple, List
 from util import * 
 from pathlib import Path
 import pybraille
@@ -11,6 +11,9 @@ from gradio_client import Client, handle_file
 import shutil
 from datetime import datetime
 from models import * 
+from PIL import Image
+import io
+import unicodedata
 
 DEMONYM = {
         "Brazil": "Brazilian",
@@ -47,10 +50,10 @@ def get_image_request(inputs: str) -> Dict[str, str]:
 
 def get_music_request(inputs: str) -> Dict[str, str]:
     return {
-        "inputs": prompt_music,
+        "inputs": inputs,
     }
 
-def send_request(api_url : str, payload :str, logger: logging.Logger, attempts: int = 3):
+def send_request(api_url : str, payload :str, logger: logging.Logger, attempts: int = 3, sleep_time: int = 5) -> Optional[requests.Response]:
     
     response = requests.post(api_url, headers=HEADERS, json=payload)
 
@@ -67,18 +70,27 @@ def send_request(api_url : str, payload :str, logger: logging.Logger, attempts: 
                      f"Response: {response.text}" \
                      f"Request failed for API: {api_url}" \
                      f" with payload: {payload}")
+    else: 
+        time.sleep(sleep_time)
+        logger.error(f"Request failed with status code {response.status_code}. " \
+                        f"Response: {response.text}" \
+                        f"Trying again in {sleep_time} seconds..." if attempts > 1 else "")
+        if attempts > 1:
+            return send_request(api_url, payload, logger, attempts - 1, sleep_time * attempts)
+        
 
     return None
     
-def gen_text(item : Dict[str, str], logger: logging.Logger, output_dir: str, config: Optional[Dict[str, str]]=None) -> Tuple[bool, Optional[str]]:
+def gen_text(item : Dict[str, str], logger: logging.Logger, 
+             output_dir: str, index: int, config: Optional[Dict[str, str]]=None) -> Tuple[bool, Optional[str]]:
     text_prompt = "A one sentence textual description of {} from {} {}".format(item["name"], DEMONYM[item["country"]], item["domain"])
     model = None
     endpoint = None
     text_gen = None
 
     if config is None: 
-        model = TEXT_MODEL_PHI3_MINI_4K_INSTRUCT["model"]
-        endpoint = TEXT_MODEL_PHI3_MINI_4K_INSTRUCT["endpoint"]
+        model = TEXT_MODEL_LLAMA_3_1_8B_INSTRUCT["model"]
+        endpoint = TEXT_MODEL_LLAMA_3_1_8B_INSTRUCT["endpoint"]
     else:
         model = config["model"]
         endpoint = config["endpoint"]
@@ -86,25 +98,35 @@ def gen_text(item : Dict[str, str], logger: logging.Logger, output_dir: str, con
 
     request = get_text_request(text_prompt, model)
     response = send_request(endpoint, request, logger)
+    
 
     if response is None:
         logger.error(f"Failed to generate text for item {item['id']}")
         return False, None
-    elif "choices" in response.json and response.json()["choices"]:
+    elif "choices" in response.json() and response.json()["choices"]:
         text_gen = response.json()["choices"][0]["message"]["content"]
     else:
         logger.error(f"No choices found in response for item {item['id']}. Response: {response.text}")
 
-    write_path = Path(output_dir) / f"{item['id']}.txt"
+    write_path = Path(output_dir) / f"{index}.txt"
     write_sucess = write_text(write_path, text_gen, logger)
     item["gen_text"] = str(write_path)
     return write_sucess, text_gen
 
-def gen_braille(item : Dict[str, str], text_gen: str, logger: logging.Logger, output_dir: str) -> bool: 
+
+def remove_accent(text: str) -> str:
+    normalized = unicodedata.normalize('NFD', text)
+    no_accents = normalized.encode('ascii', 'ignore').decode('ascii')
+    no_accents = no_accents.replace('"', '').replace('"', '').replace('"', '')
+
+    return no_accents
+
+def gen_braille(item : Dict[str, str], text_gen: str, logger: logging.Logger, output_dir: str, index: int) -> bool: 
     write_success = False
+    write_path = Path(output_dir) / f"{index}_braille.txt"
     try:
-        text_braille = pybraille.convertText(str(text_gen))
-        write_path = Path(output_dir) / f"{item['id']}_braille.txt"
+        no_accent_text = remove_accent(text_gen)
+        text_braille = pybraille.convertText(no_accent_text)
 
         write_success = write_text(write_path, text_braille, logger)
         if not write_success:
@@ -120,34 +142,7 @@ def gen_braille(item : Dict[str, str], text_gen: str, logger: logging.Logger, ou
     return write_success
 
 
-# def gen_speech(item: Dict[str, str], text_gen :str, logger: logging.Logger, ,output_dir : str,config: Optional[Dict[str, str]]=None) -> None:
-#     model = None
-#     endpoint = None
-#     if config is None:
-#         endpoint = TEXT_TO_SPEECH_KOKORO["endpoint"]
-    
-#     else:
-#         endpoint = config["endpoint"]
- 
-#     request = get_speech_request(text_gen)
-
-#     response = send_request(endpoint, request, logger)
-    
-#     if response is None: 
-#         logger.error(f"Failed to generate speech for item {item['id']}")
-#         return False
-
-#     audio, sampling_rate = response.json
-
-#     write_path = Path(output_dir) / "speech/{}.wav".format(item["id"])
-#     write_sucess = write_text(write_path, audio, logger)
-
-#     logger.info(f"generated speech for: {item["id"]}")
-#     item["prompt_speech"] = text_gen
-#     item["gen_speech"] = "speech/{}.wav".format(item["id"])
-    # return write_sucess
-
-def gen_speech(item: Dict[str, str], text_gen :str, logger: logging.Logger, ,output_dir : str,config: Optional[Dict[str, str]]=None) -> None:
+def gen_speech(item: Dict[str, str], text_gen :str, logger: logging.Logger, output_dir : str, index: int, config: Optional[Dict[str, str]]=None) -> None:
     endpoint = None
     if config is None:
         endpoint = TEXT_TO_SPEECH_FASTSPEECH2["endpoint"]
@@ -168,16 +163,16 @@ def gen_speech(item: Dict[str, str], text_gen :str, logger: logging.Logger, ,out
 
     audio_bytes = response.content
 
-    write_path = Path(output_dir) / "speech/{}.wav".format(item["id"])
+    write_path = Path(output_dir) / "speech/{}.wav".format(index)
     write_sucess = write_text(write_path, text_gen, logger)
 
-    logger.info(f"generated speech for: {item["id"]}")
+    logger.info(f'generated speech for: {item["id"]}')
     item["prompt_speech"] = text_gen
-    item["gen_speech"] = "speech/{}.wav".format(item["id"])
+    item["gen_speech"] = "speech/{}.wav".format(index)
     return write_sucess
 
     
-def gen_image(item: Dict[str, str], logger: logging.Logger, output_dir: str,config: Optional[Dict[str, str]]=None) -> None:
+def gen_image(item: Dict[str, str], logger: logging.Logger, output_dir: str, index: int, config: Optional[Dict[str, str]]=None) -> None:
     model = None
     endpoint = None
     if config is None:
@@ -201,7 +196,7 @@ def gen_image(item: Dict[str, str], logger: logging.Logger, output_dir: str,conf
     image_bytes = response.content
     image = Image.open(io.BytesIO(image_bytes))
 
-    save_path = Path(output_dir) / "img/{}.png".format(item["id"])
+    save_path = Path(output_dir) / "img/{}.png".format(index)
     image.save(save_path)
     logger.info(f"Image with id {item['id']} saved to {save_path}")
     
@@ -213,15 +208,15 @@ def gen_image(item: Dict[str, str], logger: logging.Logger, output_dir: str,conf
     item["prompt_image"] = image_prompt
     item["gen_image"] = "img/{}.png".format(item["id"])
 
-    return save_sucess
+    return save_sucess, image_bytes
 
-def gen_music(item : Dict[str, str], logger: logging.Logger, output_dir: str, config: Optional[Dict[str, str]]=None) -> None:
+def gen_music(item : Dict[str, str], logger: logging.Logger, output_dir: str, index :int, config: Optional[Dict[str, str]]=None) -> None:
     
     model = None
     endpoint = None
     if config is None:
-        model = #TODO: Use a default model
-        endpoint = #TODO: Use a default endpoint
+        model = IMAGE_MODEL_DIFFUSION_3_MEDIUM_DIFFUSERS["model"]
+        endpoint = IMAGE_MODEL_DIFFUSION_3_MEDIUM_DIFFUSERS["endpoint"]
     else:
         model = config["model"]
         endpoint = config["endpoint"]
@@ -238,12 +233,12 @@ def gen_music(item : Dict[str, str], logger: logging.Logger, output_dir: str, co
 
     audio_bytes = response.content
 
-    write_path = Path(output_dir) / "music/{}.wav".format(item["id"])
+    write_path = Path(output_dir) / "music/{}.wav".format(index)
     write_sucess = write_text(write_path, audio_bytes, logger)
 
     logger.info(f"Generated music for: {item['id']}")
     item["prompt_music"] = prompt_music
-    item["gen_music"] = "music/{}.wav".format(item["id"])
+    item["gen_music"] = "music/{}.wav".format(index)
     return write_sucess
 
 def gen_video(item: Dict[str, str], logger: logging.Logger, output_dir: str, config: Optional[Dict[str, str]]=None) -> None:
@@ -269,137 +264,23 @@ def gen_video(item: Dict[str, str], logger: logging.Logger, output_dir: str, con
 
     return gen_sucess
 
-
-def gen_3d(item: Dict[str, str], logger: logging.Logger, output_dir: str, config: Optional[Dict[str, str]]=None) -> bool:
-
-    gen_success = False
+def gen_3d(image_bytes, logger: logging.Logger, output_dir: str, index, config: Optional[Dict[str, str]]=None) -> bool:
+    image_b64_str = base64.b64encode(image_bytes).decode("utf-8")
     
-    try:
-
-        if config is None:
-            api_endpoint = "tencent/Hunyuan3D-2"
-            api_name = "/shape_generation"
-            steps = 30
-            guidance_scale = 5.0
-            octree_resolution = 256
-            remove_background = True
-            num_chunks = 8000
-            randomize_seed = True
-        else:
-            api_endpoint = config.get("endpoint", "tencent/Hunyuan3D-2")
-            api_name = config.get("api_name", "/shape_generation")
-            steps = int(config.get("steps", 30))
-            guidance_scale = float(config.get("guidance_scale", 5.0))
-            octree_resolution = int(config.get("octree_resolution", 256))
-            remove_background = config.get("remove_background", "true").lower() == "true"
-            num_chunks = int(config.get("num_chunks", 8000))
-            randomize_seed = config.get("randomize_seed", "true").lower() == "true"
+    payload = {
+    "image": image_b64_str
+    }
         
-        hf_token = os.getenv['HF_TOKEN']
-        if hf_token:
-            client = Client(api_endpoint, hf_token=hf_token)
-            logger.info(f"Initialized 3D client with HF token for item {item['id']}")
-        else:
-            client = Client(api_endpoint)
-            logger.info(f"Initialized 3D client (free tier) for item {item['id']}")
-        
+    response = requests.post(LOCAL_HUNYUAN_3D2, json=payload)
     
-        image_path = Path(output_dir) / item.get("gen_image", f"img/{item['id']}.png")
-        
-        if not image_path.exists():
-            logger.error(f"Input image not found for 3D generation: {image_path}")
-            return False
-        
-        logger.info(f"Starting 3D model generation for item {item['id']} from image: {image_path}")
-        
+    output_path = Path(output_dir) / f"{index}.glb"
+    if response.status_code == 200:
+        with open(output_path, "wb") as f:
+            f.write(response.content)
+        logger.info(f"3D model saved to {output_path}")
+        return True
+    else:
+        logger.error(f"Failed to generate 3D model for item {index}. Status code: {response.status_code}, Response: {response.text}")
+        return False
 
-        result = client.predict(
-            caption=None,
-            image=handle_file(str(image_path)),
-            mv_image_front=None,
-            mv_image_back=None,
-            mv_image_left=None,
-            mv_image_right=None,
-            steps=steps,
-            guidance_scale=guidance_scale,
-            seed=1234,
-            octree_resolution=octree_resolution,
-            check_box_rembg=remove_background,
-            num_chunks=num_chunks,
-            randomize_seed=randomize_seed,
-            api_name=api_name
-        )
-        
-        output_file_data = result[0]
-        
-        output_file_path = None
-        if output_file_data:
-            if isinstance(output_file_data, dict):
-                output_file_path = (output_file_data.get('value') or 
-                                   output_file_data.get('name') or 
-                                   output_file_data.get('path'))
-            else:
-                output_file_path = str(output_file_data)
-        
-        if not output_file_path or not Path(output_file_path).exists():
-            logger.error(f"No valid 3D model file generated for item {item['id']}")
-            return False
-        
-        model_dir = Path(output_dir) / "3d"
-        model_dir.mkdir(exist_ok=True)
-        
-        output_extension = Path(output_file_path).suffix
-        output_filename = f"{item['id']}_3d_model{output_extension}"
-        final_output_path = model_dir / output_filename
-        
-        shutil.copy2(output_file_path, final_output_path)
-        
-        
-        metadata_path = model_dir / f"{item['id']}_3d_metadata.txt"
-        _, html_output, mesh_stats, used_seed = result
-        
-        metadata_content = f"""Hunyuan3D Processing Metadata
-                    Generated: {datetime.now().isoformat()}
-                    --------------------------------------------------
-                    source_image: {image_path.name}
-                    generated_file: {output_filename}
-                    used_seed: {used_seed}
-                    steps: {steps}
-                    guidance_scale: {guidance_scale}
-                    octree_resolution: {octree_resolution}
-                    remove_background: {remove_background}
-                    num_chunks: {num_chunks}
-                    randomize_seed: {randomize_seed}
-                    mesh_stats: {mesh_stats}
-                    html_output: {html_output}
-        """
-        
-        write_success = write_text(metadata_path, metadata_content, logger)
-        if not write_success:
-            logger.warning(f"Failed to write metadata for 3D model {item['id']}")
-        
-        logger.info(f"Generated 3D model for item {item['id']} at {final_output_path}")
-        
-        item["gen_3d"] = f"3d/{output_filename}"
-        item["gen_3d_metadata"] = f/{item['id']}_3d_metadata.txt"
-        
-        gen_success = True
-        
-    except ImportError as e:
-        logger.error(f"Missing required dependencies for 3D generation: {e}")
-        logger.error("Install with: pip install gradio-client")
-        gen_success = False
-        
-    except Exception as e:
-        error_msg = str(e)
-        logger.error(f"Failed to generate 3D model for item {item['id']}: {error_msg}")
-        
-        if "exceeded your free GPU quota" in error_msg:
-            logger.warning("GPU quota exceeded for 3D generation. Consider:")
-            logger.warning("  1. Wait for quota to reset")
-            logger.warning("  2. Use a Hugging Face Pro account")
-            logger.warning("  3. Deploy your own instance")
-        
-        gen_success = False
     
-    return gen_success

@@ -1,0 +1,8 @@
+curl -X POST "https://api-inference.huggingface.co/models/facebook/musicgen-small" \
+  -H "Authorization: Bearer HF_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "inputs": "A short song representing carne de panela from Brazil cusine"
+  }' \
+  --output test.wav
+

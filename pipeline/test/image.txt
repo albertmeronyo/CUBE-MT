@@ -1,0 +1,8 @@
+
+curl -X POST "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-3-medium-diffusers" \
+  -H "Authorization: Bearer HF_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "inputs": "A high resolution image of Pão de queijo from Brazilian cuisine, realistic"
+  }' \
+  -o test.png

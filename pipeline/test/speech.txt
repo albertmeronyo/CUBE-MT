@@ -1,0 +1,7 @@
+curl -X POST "https://api-inference.huggingface.co/models/facebook/fastspeech2-en-ljspeech" \
+  -H "Authorization: Bearer HF_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "inputs": "Pão de queijo is a traditional Brazilian cheese bread that consists of small, crispy-on-the-outside and fluffy-on-the-inside balls of cheese-filled dough, typically made from a mixture of melted cheese, eggs, and flour."
+  }' \
+  --output '/home/ubuntu/Xin_Fan/CUBE-MT/pipeline/test/output_test/test.wav'

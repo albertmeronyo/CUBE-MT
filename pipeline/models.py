@@ -45,9 +45,10 @@
 # }
 
 import os 
-
+from dotenv import load_dotenv
+load_dotenv()
 HEADERS = {
-    "Authorization": f"Bearer {os.getenv['HF_TOKEN']}",
+    "Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
 }
 
 # Ref: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct?inference_api=true&inference_provider=featherless-ai&language=python
@@ -64,6 +65,7 @@ TEXT_MODEL_MISTRAL_NEMO_INSTRUCT = {
 }
 
 # Ref: https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407?inference_api=true&inference_provider=nebius&language=python
+# CUBE-MT
 TEXT_MODEL_LLAMA_3_1_8B_INSTRUCT = {
     "model": "accounts/fireworks/models/llama-v3p1-8b-instruct", 
     "endpoint": "https://router.huggingface.co/fireworks-ai/inference/v1/chat/completions",
@@ -95,3 +97,4 @@ HUNYUAN_3D2 = {
 }
 
 
+LOCAL_HUNYUAN_3D2 =  "http://localhost:8080/generate"

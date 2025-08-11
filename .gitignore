@@ -729,3 +729,6 @@ braille/
 speech/
 
 mt.ipynb
+
+*.json
+*.log
