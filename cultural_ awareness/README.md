@@ -76,9 +76,16 @@ Example:
 If you need models different from the defaults:
 
 1. Open `models.py` and select the model/endpoints you want to use.
-2. Update your configuration (or the code, depending on how your project is structured) to use those endpoints.
-3. For additional models (e.g., text-to-image), you can browse available Hugging Face models:
-   [https://huggingface.co/models?pipeline_tag=text-to-image](https://huggingface.co/models?pipeline_tag=text-to-image)
+2. Update configuration (and post-processing if endpoint output is different, an example is given in `custom_func.py`) to use those endpoints.
+ For a list of available models per modality, see:
+
+* Images: [Text-to-image models](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending)
+* Text: [Text generation](https://huggingface.co/models?pipeline_tag=text-generation&sort=trending)
+* Speech: [Text-to-speech models](https://huggingface.co/models?pipeline_tag=text-to-speech&sort=trending)
+* Music: [Text-to-audio models](https://huggingface.co/models?pipeline_tag=text-to-audio&sort=trending)
+* 3D: [Image-to-3D models](https://huggingface.co/models?pipeline_tag=image-to-3d&sort=trending)
+* Braille: See documentation of the [pybraille](https://pypi.org/project/pybraille/) library
+
 
 ---
 
@@ -102,23 +109,14 @@ After a successful run, the pipeline will create a subfolder in `output_dir` con
 * `music/`
 * `speech/`
 
-(Only the modalities you enabled will be populated.)
+(Only the modalities enabled will be populated.)
 
 ---
 
-## 4. Post-processing and customization
 
-Depending on the model/endpoint, **post-processing** of outputs may be necessary.
 
-* For custom post-processing logic, see **`custom_func.py`**.
-* Use the examples there as templates to:
 
-  * clean or transform generated outputs,
-  * implement your own post-processing functions.
-
----
-
-## 5. Resuming from cache
+## 4. Resuming from cache
 
 If the execution terminates unexpectedly:
 
@@ -128,7 +126,7 @@ If the execution terminates unexpectedly:
 
 ---
 
-## 6. 3D modality (Hunyuan3D)
+## 5. 3D modality (Hunyuan3D)
 
 The 3D model API for **Hunyuan3D** may not always be available as a remote service, so a **local API** option is also supported.
 
