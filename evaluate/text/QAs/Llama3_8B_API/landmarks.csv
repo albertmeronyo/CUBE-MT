@@ -1,0 +1,1924 @@
+Prompt,Response,Model,ID,Score
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'd be happy to provide you with a historic site. 
+
+The site I've chosen is:
+
+1. **Angkor Wat**
+2. **Cambodia**
+3. **Asia**
+
+Angkor Wat is a large temple complex in Cambodia, built in the 12th century during the reign of King Suryavarman II. It's considered one of the largest and most impressive archaeological sites in the world, and is a UNESCO World Heritage Site. The complex showcases the artistic and cultural achievements of the Khmer Empire, which flourished in Southeast Asia from the 9th to the 15th century.",meta-llama/Llama-3.1-8B-Instruct,24,0.02702702702702703
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu  
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,21,0.025546094039244724
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Machu Picchu**
+ 
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,19,0.025546094039244724
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,23,0.025175860792299148
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+
+1. Name of site: Machu Picchu 
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,72,0.02480562754535357
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,53,0.024435394298407995
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,73,0.024435394298407995
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+1) Name of site:  Machu Picchu 
+2) Country of origin: Peru 
+3) Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,16,0.024065161051462423
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Machu Picchu**: 
+The site is an Inca citadel located in modern-day Peru. 
+
+2. Country of origin: **Peru**
+3. Continent of origin: **South America**",meta-llama/Llama-3.1-8B-Instruct,54,0.023694927804516847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu  
+1) Name of site: Machu Picchu 
+2) Country of origin: Peru 
+3) Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,22,0.023694927804516847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+1) Name of site: Machu Picchu
+2) Country of origin: Peru
+3) Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,55,0.02332469455757127
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu 
+1) Name of site: Machu Picchu 
+2) Country of origin: Peru 
+3) Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,7,0.022954461310625694
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Angkor Wat**
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,29,0.022584228063680118
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:
+
+1. Name of site: Chichen Itza
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,76,0.022584228063680118
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is Stonehenge.
+
+1. Name of site: Stonehenge
+2. Country of origin: United Kingdom
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,64,0.022213994816734542
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Angkor Wat**
+2. **Country of origin**: Cambodia
+3. **Continent of origin**: Asia",meta-llama/Llama-3.1-8B-Instruct,33,0.022213994816734542
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Angkor Wat**
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,14,0.021843761569788966
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,41,0.020362828582006665
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Machu Picchu is a historic site with the following details:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,75,0.020362828582006665
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Name of site:** The Terracotta Army
+2. **Country of origin:** China
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,36,0.020362828582006665
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Angkor Wat 
+2. Country of origin: Cambodia 
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,49,0.01999259533506109
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'll provide a historic site. 
+
+Name of site: Chichén Itzá
+Country of origin: Mexico
+Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,57,0.019622362088115512
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Name of site:** Angkor Wat
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,52,0.019252128841169936
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Chichén Itzá
+
+1. Name of site: Chichén Itzá
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,25,0.01888189559422436
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site:  Great Zimbabwe
+2. Country of origin:  Zimbabwe
+3. Continent of origin:  Africa",meta-llama/Llama-3.1-8B-Instruct,30,0.01888189559422436
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is the ""Angkor Wat"".
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,56,0.017771195853387635
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is Angkor Wat.
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,44,0.017771195853387635
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I'm providing is: 
+
+1. Name of site: Great Zimbabwe
+2. Country of origin: Zimbabwe
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,28,0.01740096260644206
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,35,0.016660496112550906
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:
+
+1. Name of site:  Angkor Wat
+2. Country of origin:  Cambodia
+3. Continent of origin:  Asia",meta-llama/Llama-3.1-8B-Instruct,26,0.01629026286560533
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Chichen Itza
+
+1. Name of site: Chichen Itza
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,27,0.015920029618659754
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Chichen Itza
+
+1. Name of site: Chichen Itza
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,20,0.015920029618659754
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,67,0.01554979637171418
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,10,0.01554979637171418
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:
+
+The Terracotta Army
+
+1. Name of site: Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,65,0.014068863383931877
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Hampi
+
+1. Name of site: Hampi
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,13,0.014068863383931877
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site: The Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,63,0.0136986301369863
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  Machu Picchu
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,43,0.01295816364309515
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  - Chichen Itza
+
+1. Name of site: Chichen Itza
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,77,0.01295816364309515
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Name of site: Machu Picchu
+Country of origin: Peru
+Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,15,0.012587930396149574
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  Machu Picchu
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,50,0.012587930396149574
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Historic site:  Machu Picchu
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,51,0.012587930396149574
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,46,0.012217697149203998
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'd be happy to provide a historic site for you. 
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,58,0.011847463902258423
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,31,0.011477230655312847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,2,0.011477230655312847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,48,0.011477230655312847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  Angkor Wat 
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,6,0.011477230655312847
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Petra
+
+1. Name of site: Petra
+2. Country of origin: Jordan
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,61,0.011106997408367271
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:  Petra
+
+1. Name of site: Petra
+2. Country of origin: Jordan
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,9,0.010736764161421697
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Historic site:  Angkor Wat
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,71,0.01036653091447612
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Name of site:  Petra
+2. Country of origin: Jordan
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,66,0.01036653091447612
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is:  Machu Picchu.
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,4,0.01036653091447612
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I'd like to introduce is:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,45,0.009626064420584968
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  The Terracotta Army
+
+1. Name of site: The Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,38,0.009626064420584968
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: Pompeii
+
+1. Name of site: Pompeii
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,68,0.009255831173639394
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I'd like to introduce is:
+
+1. Name of site:  Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,8,0.009255831173639394
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: The Terracotta Army
+
+1. Name of site: The Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,1,0.009255831173639394
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  The Terracotta Army
+
+1. Name of site:  The Terracotta Army
+2. Country of origin:  China
+3. Continent of origin:  Asia",meta-llama/Llama-3.1-8B-Instruct,59,0.008885597926693817
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Historic site:  The Terracotta Army
+
+1. Name of site: The Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,69,0.008515364679748241
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I am providing is: 
+
+1. Site Name:  Machu Picchu
+2. Country of Origin: Peru
+3. Continent of Origin: South America",meta-llama/Llama-3.1-8B-Instruct,32,0.008145131432802665
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I'd like to mention is:
+
+1. Name of site:  Petra
+2. Country of origin: Jordan
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,60,0.006664198445020363
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is: 
+
+Pylos
+
+1. Name of site: Pylos
+2. Country of origin: Greece
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,12,0.005923731951129212
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I'd like to suggest is: 
+
+1. The Terracotta Army
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,47,0.005923731951129212
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I will provide is:
+
+1. **Angkor Wat**
+2. **Cambodia**
+3. **Asia**",meta-llama/Llama-3.1-8B-Instruct,0,0.00518326545723806
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site Name:  Pompeii
+Country of Origin: Italy
+Continent of Origin: Europe",meta-llama/Llama-3.1-8B-Instruct,74,0.00518326545723806
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site:  Mammoth Cave National Park 
+
+ 1. Name of site: Mammoth Cave National Park 
+ 2. Country of origin: United States 
+ 3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,17,0.004813032210292484
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name of site:** Pompeii
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,40,0.004442798963346909
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Name of site:  Pompeii
+Country of origin: Italy
+Continent of origin: Eurasia",meta-llama/Llama-3.1-8B-Instruct,78,0.004442798963346909
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Great Pyramid of Giza is a historic site. 
+
+1. Name of site: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,37,0.004442798963346909
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Name of site:** Pompeii
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,11,0.004072565716401333
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I've chosen is:
+
+1. **Name of site:** Pompeii
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,42,0.004072565716401333
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'll provide you with a historic site.
+
+ **Site Name:** Machu Picchu
+ **Country of Origin:** Peru
+ **Continent of Origin:** South America",meta-llama/Llama-3.1-8B-Instruct,70,0.0033320992225101815
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Historic Site: 
+
+1. Name of site: Herculaneum
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,5,0.002961865975564606
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site I have chosen is:
+
+1. The Pyramids of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,62,0.00259163272861903
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","One historic site is the ""Pyramid of the Sun"".
+
+1. Name of site: Pyramid of the Sun
+2. Country of origin: Mexico
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,18,0.0022213994816734544
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'd like to provide you with a historic site.
+
+1. **Name of site:** The Pyramids of Giza
+2. **Country of origin:** Egypt
+3. **Continent of origin:** Africa",meta-llama/Llama-3.1-8B-Instruct,3,0.0011106997408367272
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'd be happy to provide you with a historic site.
+
+ Historic Site: 
+1. Name of site: Pompeii
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,34,0.0011106997408367272
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","One historic site is:
+
+1. Site Name: The Great Pyramid of Giza
+2. Country of Origin: Egypt
+3. Continent of Origin: Africa",meta-llama/Llama-3.1-8B-Instruct,79,0.00037023324694557573
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The historic site is: 
+
+1. Angkor Wat
+2. Cambodia
+3. Asia",meta-llama/Llama-3.1-8B-Instruct,39,0.00037023324694557573
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of monument: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,58,0.030753968253968252
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,21,0.030753968253968252
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of monument: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,47,0.02976190476190476
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,42,0.029265873015873016
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is: The Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe 
+
+However, it is located in the United States of America, which is in North America.",meta-llama/Llama-3.1-8B-Instruct,7,0.028769841269841268
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,46,0.028769841269841268
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,36,0.028769841269841268
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,12,0.028273809523809524
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,27,0.027777777777777776
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,41,0.027777777777777776
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,22,0.027777777777777776
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,20,0.027777777777777776
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'll provide is the Statue of Liberty. 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,61,0.027281746031746032
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Statue of Liberty.
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,54,0.026785714285714284
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,73,0.026785714285714284
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,33,0.026785714285714284
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Liberty 
+1) Name of monument: The Statue of Liberty 
+2) Country of origin: France 
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,68,0.025793650793650792
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,76,0.025793650793650792
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I will name is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,19,0.024305555555555556
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is: The Statue of Liberty
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,28,0.023809523809523808
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is: The Statue of Liberty
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,1,0.023809523809523808
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is: The Statue of Liberty
+
+1) Name of monument: The Statue of Liberty
+2) Country of origin: France
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,8,0.023313492063492064
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'm choosing is The Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,74,0.023313492063492064
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I will choose is:  The Statue of Liberty
+
+ 1) Name of monument: The Statue of Liberty
+ 2) Country of origin: France
+ 3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,3,0.022817460317460316
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","I'll provide you with information about the Taj Mahal.
+
+1. **Name of monument:** Taj Mahal
+2. **Country of origin:** India (specifically, it's located in the state of Uttar Pradesh)
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,55,0.02132936507936508
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Name of monument:  The Statue of Liberty
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,2,0.020337301587301588
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Name of monument: The Statue of Liberty
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,15,0.01984126984126984
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","I'll name the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,75,0.018849206349206348
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'll choose is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,13,0.018353174603174604
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'll choose is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,72,0.018353174603174604
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's consider the monument: The Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,52,0.017857142857142856
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,43,0.017361111111111112
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,17,0.017361111111111112
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer statue.
+
+1. **Name of monument:** Christ the Redeemer
+2. **Country of origin:** Brazil
+3. **Continent of origin:** South America",meta-llama/Llama-3.1-8B-Instruct,34,0.017361111111111112
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'll name is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,62,0.016865079365079364
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'll name is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,49,0.016865079365079364
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","One monument I can think of is the Statue of Liberty. 
+
+1. Name of monument: Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,60,0.01636904761904762
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument: The Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,45,0.015873015873015872
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is: The Christ the Redeemer statue.
+
+1. Name of monument: The Christ the Redeemer statue
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,18,0.015873015873015872
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,26,0.015376984126984126
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Statue of Christ the Redeemer 
+
+1. Name of monument: The Statue of Christ the Redeemer 
+2. Country of origin: Brazil 
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,51,0.015376984126984126
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","One monument is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,50,0.01488095238095238
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,67,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,6,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,40,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,77,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,66,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Taj Mahal.
+
+1. Name of monument: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,29,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is: The Great Sphinx of Giza.
+
+1. Name of monument: The Great Sphinx of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,10,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. Name of monument: The Christ the Redeemer Statue
+2. Country of origin:  Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,39,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'd like to name is the Statue of Liberty.
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,23,0.013888888888888888
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,0,0.013392857142857142
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,32,0.013392857142857142
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is the Taj Mahal.
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,71,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,69,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,11,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,63,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,16,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's take the Taj Mahal as an example.
+
+1. Name of monument: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,30,0.012896825396825396
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I have chosen is the Great Pyramid of Giza.
+
+1. Name of monument: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,59,0.011408730158730158
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I will name is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,5,0.011408730158730158
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's take the ""Taj Mahal"". 
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,38,0.011408730158730158
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I've chosen is the Christ the Redeemer.
+
+1. Name of monument: Christ the Redeemer 
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,64,0.008928571428571428
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Taj Mahal is a monument. 
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,24,0.008928571428571428
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Monument: Christ the Redeemer
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,31,0.00744047619047619
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'd like to name is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,25,0.006448412698412698
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","A monument I'd like to mention is the ""Christ the Redeemer"" statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,4,0.006448412698412698
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument I'd like to mention:
+
+1. Name of monument: The Statue of Liberty
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,14,0.005952380952380952
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's take the ""Christ the Redeemer"" monument as an example.
+
+1. Name of the monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,65,0.005456349206349206
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument is the ""Christ the Redeemer"".
+
+1. Name of monument:  Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,44,0.005456349206349206
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'd like to name is the Taj Mahal. 
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,35,0.005456349206349206
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I will be describing is the Christ the Redeemer statue.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,37,0.00496031746031746
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","I'd be happy to provide you with information about the monument. 
+
+Monument:  The Statue of Liberty
+
+1. Name of monument:  The Statue of Liberty
+2. Country of origin:  France
+3. Continent of origin:  Europe",meta-llama/Llama-3.1-8B-Instruct,56,0.004464285714285714
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's consider the ""Christ the Redeemer"" monument.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,9,0.003472222222222222
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's consider the ""Taj Mahal"" as the monument.
+
+1. Name of monument: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,53,0.002976190476190476
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","One monument is the Taj Mahal. 
+
+1. Name of monument: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,79,0.002976190476190476
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I would like to mention is the Christ the Redeemer.
+
+1. Name of monument: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,57,0.00248015873015873
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","One monument is the Pyramids of Giza. 
+
+1. Name of monument: Pyramids of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,70,0.001488095238095238
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's the information about the monument: 
+
+1. Name of monument: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,48,0.000496031746031746
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","The monument I'd like to name is the ""Pyramid of the Sun"".
+
+1. Name of monument: Pyramid of the Sun
+2. Country of origin: Mexico 
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,78,0.000496031746031746
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,7,0.025945945945945945
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+1. Name of attraction: Eiffel Tower, 
+2. Country of origin: France,
+3. Continent of origin: Europe.",meta-llama/Llama-3.1-8B-Instruct,4,0.025945945945945945
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+1. Name of attraction: Taj Mahal 
+2. Country of origin: India 
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,67,0.025585585585585584
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+1) Name of attraction: Taj Mahal 
+2) Country of origin: India 
+3) Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,54,0.025225225225225224
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower  
+1. Name of attraction: Eiffel Tower  
+2. Country of origin: France  
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,34,0.024504504504504504
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,58,0.024144144144144144
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,45,0.024144144144144144
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,71,0.023783783783783784
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1. Name of attraction: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,15,0.023063063063063063
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,79,0.022702702702702703
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower  
+1) Name of attraction: Eiffel Tower 
+2) Country of origin: France 
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,77,0.022342342342342343
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+1. Name of attraction: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,68,0.021981981981981983
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower  
+1) Name of attraction: Eiffel Tower  
+2) Country of origin: France  
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,62,0.021981981981981983
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,64,0.021621621621621623
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1. Name of attraction: The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,33,0.021621621621621623
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: Taj Mahal
+Country of origin: India
+Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,8,0.021261261261261263
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: Taj Mahal
+Country of origin: India
+Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,56,0.021261261261261263
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1. Name of attraction:  The Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Australia/Oceania",meta-llama/Llama-3.1-8B-Instruct,1,0.021261261261261263
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,40,0.02054054054054054
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's take the Eiffel Tower as an example:
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,18,0.02054054054054054
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,57,0.02018018018018018
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+1) Name of attraction: The Eiffel Tower 
+2) Country of origin: France 
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,30,0.01981981981981982
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+1) Name of attraction: The Eiffel Tower 
+2) Country of origin: France 
+3) Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,74,0.01981981981981982
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Eiffel Tower 
+1. Name of attraction: Eiffel Tower 
+2. Country of origin: France 
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,13,0.01981981981981982
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's take the Eiffel Tower as an example.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,75,0.0190990990990991
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,59,0.018738738738738738
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,51,0.018738738738738738
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I'll name is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,2,0.018738738738738738
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Eiffel Tower.
+
+1. Name of attraction: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,69,0.018378378378378378
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Eiffel Tower.
+
+1. Name of attraction: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,48,0.018378378378378378
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","I'll choose the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,43,0.018378378378378378
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I'll choose is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,16,0.018378378378378378
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The Great Barrier Reef 
+
+1. Name of attraction: The Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Australia/Oceania",meta-llama/Llama-3.1-8B-Instruct,32,0.017297297297297298
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's take the ""Taj Mahal"" as an example.
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,38,0.017297297297297298
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,65,0.015495495495495495
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Taj Mahal.
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,29,0.015135135135135135
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's take the ""Taj Mahal"" as an example.
+
+1. Name of attraction: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,28,0.015135135135135135
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Great Wall of China
+1. Name of attraction: Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,78,0.015135135135135135
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Great Pyramid of Giza 
+1. Name of attraction:  Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,10,0.014414414414414415
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","I'll name the Eiffel Tower. 
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,44,0.014054054054054054
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Taj Mahal.
+
+1. Name of attraction: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,21,0.013693693693693694
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Here's a tourist attraction:
+
+1. **Name of attraction:** The Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,6,0.012972972972972972
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's consider the ""Eiffel Tower"". 
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,14,0.012612612612612612
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: The Great Wall of China 
+Country of origin: China
+Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,23,0.012612612612612612
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","I'll choose the Eiffel Tower as the tourist attraction. 
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,27,0.011531531531531532
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's take the 'Taj Mahal' as the tourist attraction.
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,61,0.011531531531531532
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is: Eiffel Tower
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,24,0.011171171171171172
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is:
+
+1. The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,11,0.010810810810810811
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is: The Eiffel Tower
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,26,0.010450450450450451
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","To provide the details of the requested tourist attraction, we will select the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,46,0.01009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","One tourist attraction is the  Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,39,0.01009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: Eiffel Tower 
+Country of origin: France 
+Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,37,0.01009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is the Great Wall of China.
+
+1. Name of attraction: The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,50,0.00972972972972973
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: Christ the Redeemer
+Country of origin: Brazil
+Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,55,0.00972972972972973
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","One tourist attraction is the Eiffel Tower.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,73,0.00972972972972973
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is the Taj Mahal.
+
+1. Name of attraction: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,3,0.009369369369369369
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Here's a tourist attraction:
+
+1. Name of attraction: The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,31,0.009009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Let's consider the Eiffel Tower as the tourist attraction.
+
+1. Name of attraction: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,25,0.009009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I have chosen is the 'Great Wall of China'.
+
+1. Name of attraction: The Great Wall of China.
+2. Country of origin: China.
+3. Continent of origin: Asia.",meta-llama/Llama-3.1-8B-Instruct,47,0.009009009009009009
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is the Grand Canyon.
+
+1. Name of attraction: Grand Canyon
+2. Country of origin: United States
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,60,0.008648648648648649
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I have chosen is: 
+
+1. The Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Australia/Oceania",meta-llama/Llama-3.1-8B-Instruct,52,0.008288288288288289
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is: Taj Mahal
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,70,0.0075675675675675675
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Here's a tourist attraction:
+
+1. Name of attraction: Grand Canyon
+2. Country of origin: United States
+3. Continent of origin: North America",meta-llama/Llama-3.1-8B-Instruct,53,0.007207207207207207
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction:  Taj Mahal
+
+1. Name of attraction: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,42,0.007207207207207207
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Tourist attraction:  The Great Pyramid of Giza
+
+1. Name of attraction: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,41,0.006126126126126126
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","One tourist attraction is the 'Christ the Redeemer' statue.
+
+1. Name of attraction: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,72,0.006126126126126126
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction is: The Great Wall of China
+
+1. Name of attraction: The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,22,0.005405405405405406
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","I'll describe the Taj Mahal:
+
+1. Name of attraction: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,5,0.0046846846846846845
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is the Great Barrier Reef.
+
+1. Name of attraction: Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Australia/Oceania",meta-llama/Llama-3.1-8B-Instruct,12,0.004324324324324324
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction:  The Great Barrier Reef
+1) Country of origin:  Australia
+2) Continent of origin:  Australia/Oceania (more specifically Oceania)",meta-llama/Llama-3.1-8B-Instruct,76,0.004324324324324324
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: The Great Pyramid of Giza
+
+1) Name of attraction: The Great Pyramid of Giza
+2) Country of origin: Egypt
+3) Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,36,0.003963963963963964
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is: The Great Barrier Reef.
+
+1. Name of attraction: The Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Oceania",meta-llama/Llama-3.1-8B-Instruct,17,0.003243243243243243
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I'd like to name is: 
+
+1. Name of Attraction: The Great Barrier Reef
+2. Country of Origin: Australia
+3. Continent of Origin: Australia/Oceania",meta-llama/Llama-3.1-8B-Instruct,49,0.0025225225225225223
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Here's a tourist attraction:
+
+1. Name of attraction: Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Oceania (or Australia)",meta-llama/Llama-3.1-8B-Instruct,35,0.002162162162162162
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction: The Great Wall of China
+1) The Great Wall of China
+2) China
+3) Asia",meta-llama/Llama-3.1-8B-Instruct,0,0.0018018018018018018
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Name of attraction:  The Great Wall of China
+
+1. The Great Wall of China
+2. China
+3. Asia",meta-llama/Llama-3.1-8B-Instruct,20,0.0014414414414414415
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I have chosen is:
+
+1. Christ the Redeemer
+2. Brazil
+3. South America",meta-llama/Llama-3.1-8B-Instruct,66,0.001081081081081081
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I've chosen is:
+
+1. The Eiffel Tower
+2. France
+3. Europe",meta-llama/Llama-3.1-8B-Instruct,19,0.0007207207207207207
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","The tourist attraction I will name is: The Great Barrier Reef.
+
+1. Name of attraction: The Great Barrier Reef
+2. Country of origin: Australia
+3. Continent of origin: Australia (is part of the continent of Oceania however, for many purposes Oceania is classified as a geographical region that is part of the larger continent of Australia.)",meta-llama/Llama-3.1-8B-Instruct,9,0.00036036036036036037
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","One tourist attraction is the: 
+
+1) Eiffel Tower 
+2) France 
+3) Europe",meta-llama/Llama-3.1-8B-Instruct,63,0.0
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:  Chartres Cathedral
+
+1. Name of site: Chartres Cathedral
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,24,0.02631578947368421
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Stonehenge
+2. Country of origin: England
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,29,0.025614035087719297
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Colosseum 
+
+1. Name of site: The Colosseum
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,67,0.024210526315789474
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,44,0.023859649122807018
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: The Acropolis of Athens
+2. Country of origin: Greece
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,71,0.023508771929824562
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal 
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,4,0.023508771929824562
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal 
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,41,0.023508771929824562
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site is:  The Alhambra
+
+1. Name of site: The Alhambra
+2. Country of origin: Spain
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,33,0.023508771929824562
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Colosseum is an architectural heritage site. 
+
+1. Name of site: The Colosseum
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,54,0.023157894736842106
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Colosseum is an architectural heritage site.
+
+1. Name of site: The Colosseum
+2. Country of origin: Italy
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,57,0.02280701754385965
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Acropolis of Athens.
+
+1. Name of site: The Acropolis of Athens
+2. Country of origin: Greece
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,53,0.02280701754385965
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,12,0.02245614035087719
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,38,0.02245614035087719
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site is: 
+
+1. Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,65,0.02175438596491228
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the ""Acropolis of Athens"".
+
+1. Name of site: Acropolis of Athens
+2. Country of origin: Greece
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,75,0.02175438596491228
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'll choose the Acropolis of Athens.
+
+1. Name of site: Acropolis of Athens
+2. Country of origin: Greece
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,21,0.021052631578947368
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal is an architectural heritage site.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,56,0.020350877192982456
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal is an architectural heritage site. 
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,26,0.02
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: ""The Taj Mahal""
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,0,0.02
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I have chosen is the:
+
+1. **Angkor Wat**
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,52,0.02
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site is: 
+
+1. Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,19,0.02
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,16,0.02
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,10,0.019649122807017545
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I have chosen is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,35,0.019649122807017545
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the  Taj Mahal.
+
+1. **Name of site:** Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,48,0.018947368421052633
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site is the ""Taj Mahal"".
+
+1. Site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,45,0.018947368421052633
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name of site:** The Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,47,0.018245614035087718
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Taj Mahal, 
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,13,0.017894736842105262
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I have chosen is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,9,0.015789473684210527
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I will name is the ""Taj Mahal"".
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,76,0.015789473684210527
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Taj Mahal.
+
+1. Name of site:  Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,36,0.015789473684210527
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,55,0.015438596491228071
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,46,0.015438596491228071
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,37,0.015438596491228071
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'll name is the Taj Mahal.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,78,0.015438596491228071
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Hagia Sophia
+2. Country of origin: Turkey
+3. Continent of origin: Asia/Europe (transcontinental)",meta-llama/Llama-3.1-8B-Instruct,58,0.015087719298245613
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal is an example of an architectural heritage site. 
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,5,0.014736842105263158
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'd like to mention is:
+
+1. **Angkor Wat**
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,42,0.014736842105263158
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,61,0.014385964912280702
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the ""Taj Mahal"".
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,25,0.014035087719298246
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal in Agra, India.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,51,0.01368421052631579
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the Taj Mahal.
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,40,0.01368421052631579
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Guggenheim Museum in Bilbao is a notable architectural heritage site. 
+
+1. Name of site: The Guggenheim Museum
+2. Country of origin: Spain
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,17,0.013333333333333334
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'd like to name is the 'Angkor Wat'.
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,11,0.012982456140350877
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","I'll name the Taj Mahal as the architectural heritage site.
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,79,0.012982456140350877
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site in question is Angkor Wat.
+
+1. Name of site: Angkor Wat
+2. Country of origin: Cambodia
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,60,0.01263157894736842
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Name of site: The Taj Mahal
+Country of origin: India
+Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,77,0.01263157894736842
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a notable architectural heritage site:
+
+1. **Name of site:** Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",meta-llama/Llama-3.1-8B-Instruct,6,0.012280701754385965
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The Taj Mahal is a notable architectural heritage site.
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,74,0.011578947368421053
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,7,0.011228070175438596
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:
+
+1. The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,18,0.010526315789473684
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site is the Taj Mahal.
+
+1. Name of site: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,14,0.010175438596491228
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site: The Taj Mahal
+1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,59,0.009824561403508772
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site is the Hagia Sophia. 
+
+1. Name of site: Hagia Sophia 
+2. Country of origin: Turkey 
+3. Continent of origin: Asia/Europe (It is located in a transcontinental country, situated in both Asia and Europe)",meta-llama/Llama-3.1-8B-Instruct,68,0.009473684210526316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is: 
+
+1. Name of site: The Taj Mahal 
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,69,0.009122807017543859
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site is the ""Taj Mahal.""
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,66,0.008421052631578947
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Hagia Sophia
+2. Country of origin: Turkey
+3. Continent of origin: Asia/Europe (Transcontinental country)",meta-llama/Llama-3.1-8B-Instruct,50,0.008421052631578947
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:
+
+1. Name of site: Machu Picchu
+2. Country of origin: Peru
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,31,0.008070175438596491
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the 'Great Zimbabwe'. 
+
+1. Name of site: Great Zimbabwe
+2. Country of origin: Zimbabwe
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,3,0.0077192982456140355
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'm referring to is the Taj Mahal. 
+
+1. Name of site: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,43,0.0077192982456140355
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Site name: The Taj Mahal
+Country of origin: India
+Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,70,0.007017543859649123
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example of an architectural heritage site:
+
+1. **Name of site:** The Great Pyramid of Giza
+2. **Country of origin:** Egypt
+3. **Continent of origin:** Africa",meta-llama/Llama-3.1-8B-Instruct,2,0.007017543859649123
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I'd like to mention is:
+
+1. The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,27,0.006666666666666667
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","One architectural heritage site is:
+
+1. Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,64,0.005614035087719298
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Site Name: The Great Pyramid of Giza
+2. Country of Origin: Egypt
+3. Continent of Origin: Africa",meta-llama/Llama-3.1-8B-Instruct,1,0.005614035087719298
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","One architectural heritage site is:
+
+1. The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,32,0.005263157894736842
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. Name of site: Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,20,0.005263157894736842
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I have chosen is:
+
+ **The Great Pyramid of Giza**
+
+1. Name of site: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,49,0.004210526315789474
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I'd like to mention is:
+
+1. Name of site:  Hagia Sophia
+2. Country of origin: Turkey
+3. Continent of origin: Asia/Europe (Transcontinental country)",meta-llama/Llama-3.1-8B-Instruct,39,0.004210526315789474
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is the 
+
+1. **Taj Mahal**
+2. **India**
+3. **Asia**",meta-llama/Llama-3.1-8B-Instruct,30,0.0035087719298245615
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:
+
+1. **Taj Mahal**
+2. **India**
+3. **Asia**",meta-llama/Llama-3.1-8B-Instruct,15,0.003157894736842105
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'll be naming is: 
+
+1.  The Great Pyramid of Giza
+2.  Country of origin: Egypt
+3.  Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,22,0.002807017543859649
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I've chosen is:
+
+1. **Historic Centre of Florence**
+2. **Italy**
+3. **Europe**",meta-llama/Llama-3.1-8B-Instruct,72,0.002456140350877193
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'll name is the 'Great Wall of China'. 
+
+1. Name of site: The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,34,0.002456140350877193
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","One architectural heritage site is:
+
+1. The Great Wall of China
+2. Country of origin: China
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,23,0.002456140350877193
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'd like to name is:
+
+1. **The Taj Mahal**
+2. **India**
+3. **Asia**",meta-llama/Llama-3.1-8B-Instruct,28,0.002105263157894737
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I have chosen is the Great Mosque of Kairouan.
+
+1. Name of site: Great Mosque of Kairouan (also known as Mosque of Uqba and Sbeitla Mosque)
+2. Country of origin: Tunisia
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,73,0.0010526315789473684
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The site I'm referring to is:
+
+ **Ha Long Bay**
+
+1. Name of site: Ha Long Bay
+2. Country of origin: Vietnam
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,63,0.0007017543859649122
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I'd like to mention is:
+
+1. **Agra Fort** 
+2. Country of origin: **India**
+3. Continent of origin: **Asia**",meta-llama/Llama-3.1-8B-Instruct,8,0.0003508771929824561
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","The architectural heritage site I'd like to name is:
+
+1. The Taj Mahal
+2. India
+3. Asia",meta-llama/Llama-3.1-8B-Instruct,62,0.0003508771929824561
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Taj Mahal
+
+1. Name of landmark:  Taj Mahal
+2. Country of origin:  India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,39,0.053475935828877004
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+
+1. Name of landmark: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,59,0.05169340463458111
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+
+1. Name of landmark: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,37,0.05169340463458111
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1. **Name of landmark:** The Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,55,0.05169340463458111
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+1. Name of landmark: Eiffel Tower 
+2. Country of origin: France 
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,49,0.05169340463458111
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Taj Mahal
+
+1. Name of landmark: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,70,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,1,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,74,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,77,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,32,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,33,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Eiffel Tower**
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,36,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower (La Tour Eiffel in French)
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,16,0.049910873440285206
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,29,0.0481283422459893
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,53,0.0481283422459893
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,48,0.0481283422459893
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Eiffel Tower 
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,47,0.0481283422459893
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Taj Mahal 
+
+1) Name of landmark: The Taj Mahal 
+2) Country of origin: India 
+3) Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,66,0.044563279857397504
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I've chosen is:
+
+1. **Name of landmark:** The Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",meta-llama/Llama-3.1-8B-Instruct,63,0.040998217468805706
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I've chosen is the ""Eiffel Tower"".
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,17,0.040998217468805706
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I've chosen is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,78,0.0374331550802139
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I've chosen is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,34,0.0374331550802139
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,71,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,64,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,69,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,68,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,31,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,27,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,25,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,10,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,12,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,13,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,11,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,60,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,61,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,57,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,3,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,7,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,54,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,40,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,45,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,41,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,43,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,38,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,22,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,23,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,18,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,21,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,19,0.035650623885918005
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the ""Eiffel Tower"".
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,14,0.0338680926916221
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the ""Eiffel Tower"".
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,44,0.0338680926916221
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I will choose is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,24,0.030303030303030304
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I will choose is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,72,0.030303030303030304
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I will state is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,52,0.0285204991087344
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,26,0.024955436720142603
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,20,0.024955436720142603
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I've chosen is the Taj Mahal.
+
+1. Name of landmark: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,42,0.023172905525846704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,75,0.023172905525846704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,35,0.023172905525846704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark I'll provide information on is the Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,79,0.023172905525846704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the  Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,5,0.0213903743315508
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the ""Eiffel Tower"".
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,46,0.0196078431372549
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: The Eiffel Tower
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,67,0.017825311942959002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: The Eiffel Tower
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,51,0.017825311942959002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: The Eiffel Tower
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,73,0.017825311942959002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the 'Eiffel Tower'. 
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,15,0.017825311942959002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the  Christ the Redeemer statue.
+
+1. Name of landmark: Christ the Redeemer
+2. Country of origin: Brazil
+3. Continent of origin: South America",meta-llama/Llama-3.1-8B-Instruct,62,0.0142602495543672
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: The Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,28,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: The Eiffel Tower.
+
+1. Name of landmark: The Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,58,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,56,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is: Eiffel Tower
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,4,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","One famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,0,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","One famous landmark is the Eiffel Tower.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,76,0.012477718360071301
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Taj Mahal.
+
+1. Name of landmark: Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,8,0.008912655971479501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the **Eiffel Tower**.
+
+1. Name of landmark: Eiffel Tower
+2. Country of origin: France
+3. Continent of origin: Europe",meta-llama/Llama-3.1-8B-Instruct,6,0.008912655971479501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Taj Mahal.
+
+1. Name of landmark: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,65,0.0071301247771836
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Taj Mahal.
+
+1. Name of landmark: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,9,0.0071301247771836
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Taj Mahal.
+
+1. Name of landmark: The Taj Mahal
+2. Country of origin: India
+3. Continent of origin: Asia",meta-llama/Llama-3.1-8B-Instruct,50,0.0071301247771836
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","A famous landmark is the Great Pyramid of Giza. 
+
+1. Name of landmark: The Great Pyramid of Giza
+2. Country of origin: Egypt
+3. Continent of origin: Africa",meta-llama/Llama-3.1-8B-Instruct,30,0.0017825311942959
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","The famous landmark is the Taj Mahal.
+
+1. Name of landmark: The Taj Mahal.
+2. Country of origin: India.
+3. Continent of origin: Asia.",meta-llama/Llama-3.1-8B-Instruct,2,0.0017825311942959

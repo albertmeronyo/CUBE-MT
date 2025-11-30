@@ -1,0 +1,1365 @@
+Prompt,Response,Model,ID,Score
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the ancient city of Petra:
+
+1) Name of site: Petra
+2) Country of origin: Jordan
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,43,0.03571428571428571
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the ancient city of Petra:
+
+1) Name of Site: Petra
+2) Country of Origin: Jordan
+3) Continent of Origin: Asia",Qwen/Qwen2.5-7B-Instruct,14,0.03506493506493506
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) **Name of site:** Machu Picchu
+2) **Country of origin:** Peru
+3) **Continent of origin:** South America",Qwen/Qwen2.5-7B-Instruct,48,0.033766233766233764
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the required details:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,2,0.032467532467532464
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here is a historic site with the requested information:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,9,0.031818181818181815
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,26,0.03051948051948052
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,27,0.03051948051948052
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,56,0.03051948051948052
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here is a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,63,0.02987012987012987
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the ancient site of Machu Picchu:
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",Qwen/Qwen2.5-7B-Instruct,29,0.02922077922077922
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,18,0.02922077922077922
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,16,0.02922077922077922
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site:
+
+1) **Name of site**: Machu Picchu
+2) **Country of origin**: Peru
+3) **Continent of origin**: South America",Qwen/Qwen2.5-7B-Instruct,35,0.02857142857142857
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of **The Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,76,0.02727272727272727
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,64,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,59,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,6,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,55,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested details:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,28,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested details:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,38,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,11,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,1,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,72,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the historic site of the **Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,50,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here is the information for the historic site of the Great Wall of China:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,23,0.025974025974025976
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: Machu Picchu
+2) Country of origin: Peru
+3) Continent of origin: South America",Qwen/Qwen2.5-7B-Instruct,57,0.025324675324675326
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of **Angkor Wat**:
+
+1. **Name of site**: Angkor Wat
+2. **Country of origin**: Cambodia
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,19,0.024675324675324677
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of **The Great Wall of China**:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,69,0.024025974025974027
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here is a historic site with the requested information:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,58,0.024025974025974027
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site with the requested information:
+
+1) **Name of site:** Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,62,0.024025974025974027
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here is a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,68,0.02207792207792208
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,5,0.02142857142857143
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,36,0.02142857142857143
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,30,0.02077922077922078
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,31,0.02012987012987013
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,42,0.02012987012987013
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,0,0.01948051948051948
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here's a historic site with the requested information:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,46,0.01948051948051948
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,66,0.01883116883116883
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,25,0.01883116883116883
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,20,0.01883116883116883
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the historic site of the **Great Wall of China**:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,33,0.01818181818181818
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,79,0.015584415584415584
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of **Chichen Itza**:
+
+1) Name of site: Chichen Itza
+2) Country of origin: Mexico
+3) Continent of origin: North America",Qwen/Qwen2.5-7B-Instruct,32,0.015584415584415584
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) **Site Name**: The Great Wall of China
+2) **Country of Origin**: China
+3) **Continent of Origin**: Asia",Qwen/Qwen2.5-7B-Instruct,65,0.014285714285714285
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) **Name of site:** Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,60,0.014285714285714285
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here's a historic site with the requested details:
+
+1) **Name of Site:** The Great Wall of China
+2) **Country of Origin:** China
+3) **Continent of Origin:** Asia",Qwen/Qwen2.5-7B-Instruct,49,0.014285714285714285
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here are the details of a historic site:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,22,0.014285714285714285
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,7,0.013636363636363636
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) **Name of Site**: The Great Wall of China
+2) **Country of Origin**: China
+3) **Continent of Origin**: Asia",Qwen/Qwen2.5-7B-Instruct,13,0.012987012987012988
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,67,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,8,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,75,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,73,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,78,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,39,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,34,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,21,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,17,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site for you:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,37,0.011688311688311689
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Great Wall of China**:
+
+1. **Name of Site**: Great Wall of China
+2. **Country of Origin**: China
+3. **Continent of Origin**: Asia",Qwen/Qwen2.5-7B-Instruct,40,0.01038961038961039
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the Historic Site of the **Great Wall of China**:
+
+1. **Name of site**: The Great Wall of China
+2. **Country of origin**: China
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,4,0.00974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here is a historic site that meets your criteria:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,47,0.00909090909090909
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Taj Mahal**:
+
+1. **Name of site**: Taj Mahal
+2. **Country of origin**: India
+3. **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,45,0.008441558441558441
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's an historic site fitting your request:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,77,0.008441558441558441
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site that meets your criteria:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,10,0.007792207792207792
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here is a historic site that meets your criteria:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,61,0.007142857142857143
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site that fits your request:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,15,0.005194805194805195
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's a historic site that fits your request:
+
+1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,12,0.005194805194805195
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site that fits your request:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,51,0.005194805194805195
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site that I can provide information for:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,74,0.004545454545454545
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site you requested:
+
+1) **Name of Site**: The Colosseum
+2) **Country of Origin**: Italy
+3) **Continent of Origin**: Europe",Qwen/Qwen2.5-7B-Instruct,3,0.003896103896103896
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site with the requested information:
+
+1) **Name of site:** Pyramids of Giza
+2) **Country of origin:** Egypt
+3) **Continent of origin:** Africa",Qwen/Qwen2.5-7B-Instruct,52,0.003246753246753247
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Pyramids of Giza**:
+
+1) Name of site: **Pyramids of Giza**
+2) Country of origin: **Egypt**
+3) Continent of origin: **Africa**",Qwen/Qwen2.5-7B-Instruct,53,0.003246753246753247
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Pyramids of Giza**:
+
+1) Name of site: The Pyramids of Giza
+2) Country of origin: Egypt
+3) Continent of origin: Africa",Qwen/Qwen2.5-7B-Instruct,71,0.0025974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here are the details for the historic site of the **Pyramids of Giza**:
+
+1) Name of site: The Pyramids of Giza
+2) Country of origin: Egypt
+3) Continent of origin: Africa",Qwen/Qwen2.5-7B-Instruct,44,0.0025974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site that fits your criteria:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,70,0.0025974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site that fits your criteria:
+
+1) **Name of site**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,54,0.0025974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Certainly! Here's a historic site that fits your request:
+
+1) **Name of site:** The Pyramids of Giza
+2) **Country of origin:** Egypt
+3) **Continent of origin:** Africa",Qwen/Qwen2.5-7B-Instruct,41,0.0025974025974025974
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the historic site of the Ancient Library of Alexandria:
+
+1) Name of site: **The Ancient Library of Alexandria**
+2) Country of origin: **Egypt**
+3) Continent of origin: **Africa**",Qwen/Qwen2.5-7B-Instruct,24,0.0006493506493506494
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **Country of origin**: France
+3) **Continent of origin**: Europe",Qwen/Qwen2.5-7B-Instruct,10,0.125
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **Country of origin**: France
+3) **Continent of origin**: Europe",Qwen/Qwen2.5-7B-Instruct,41,0.125
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,26,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,24,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,25,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,15,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,11,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,0,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,4,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,5,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,32,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,23,0.11666666666666667
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the Eiffel Tower:
+
+1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,9,0.10833333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the Eiffel Tower:
+
+1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,46,0.10833333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the Eiffel Tower:
+
+1) Name of monument: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,22,0.10833333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here's an example:
+
+1) **Eiffel Tower**
+2) **Country of origin**: France
+3) **Continent of origin**: Europe",Qwen/Qwen2.5-7B-Instruct,16,0.1
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,68,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,27,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,14,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,6,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,52,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,55,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,49,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,34,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,20,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,17,0.08333333333333333
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,29,0.075
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,63,0.075
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,44,0.075
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,74,0.075
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,78,0.075
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,65,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,71,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,70,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,67,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,64,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,66,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,69,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,31,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,28,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,30,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,12,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,8,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,60,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,61,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,56,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,57,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,2,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,54,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,53,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,48,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,51,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,40,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,47,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,45,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,42,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,75,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,73,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,76,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,35,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,33,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,37,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,38,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,36,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,21,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,19,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Name of monument**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,1,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Name of monument**: The Great Wall of China
+2) **Country of origin**: China
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,39,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,77,0.058333333333333334
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Statue of Liberty
+2) Country of origin: United States
+3) Continent of origin: North America",Qwen/Qwen2.5-7B-Instruct,13,0.05
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Taj Mahal**
+2) **Country of origin**: India
+3) **Continent of origin**: Asia",Qwen/Qwen2.5-7B-Instruct,59,0.05
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here's an example:
+
+1) **Statue of Liberty**
+2) **Country of origin:** United States
+3) **Continent of origin:** North America",Qwen/Qwen2.5-7B-Instruct,79,0.05
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here's an example:
+
+1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,50,0.025
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Sure, here's an example:
+
+1) Name of monument: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,72,0.025
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of Monument: The Great Wall of China
+2) Country of Origin: China
+3) Continent of Origin: Asia",Qwen/Qwen2.5-7B-Instruct,43,0.025
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **France**
+3) **Europe**",Qwen/Qwen2.5-7B-Instruct,62,0.016666666666666666
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **France**
+3) **Europe**",Qwen/Qwen2.5-7B-Instruct,3,0.016666666666666666
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **France**
+3) **Europe**",Qwen/Qwen2.5-7B-Instruct,7,0.016666666666666666
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) **Eiffel Tower**
+2) **France**
+3) **Europe**",Qwen/Qwen2.5-7B-Instruct,18,0.016666666666666666
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1) Name of monument: Statue of Liberty
+2) Country of origin: United States of America
+3) Continent of origin: North America",Qwen/Qwen2.5-7B-Instruct,58,0.0
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,34,0.23809523809523808
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,65,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,71,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,70,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,67,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,64,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,66,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,69,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,68,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,26,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,29,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,24,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,31,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,27,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,28,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,25,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,30,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,10,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,15,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,12,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,14,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,13,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,8,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,11,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,58,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,60,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,61,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,56,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,63,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,62,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,59,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,57,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,3,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,1,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,7,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,4,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,5,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,2,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,52,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,50,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,54,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,55,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,53,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,48,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,51,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,49,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,44,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,46,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,40,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,47,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,45,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,42,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,43,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,74,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,75,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,77,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,79,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,73,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,76,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,78,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,39,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,35,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,32,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,33,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,37,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,38,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,36,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,23,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,20,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,18,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,21,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,17,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,19,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,16,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the Eiffel Tower:
+
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,9,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Sure, here are the details for the Eiffel Tower:
+
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,22,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Sure, here is the information for the Eiffel Tower:
+
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,0,0.19047619047619047
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the Eiffel Tower:
+
+1) Name of attraction: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,72,0.09523809523809523
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Colosseum
+2) Country of origin: Italy
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,6,0.047619047619047616
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1) Name of attraction: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,41,0.047619047619047616
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,66,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,69,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,68,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,12,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,13,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,8,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,11,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,57,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,0,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,5,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,6,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,50,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,45,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,42,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,41,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,73,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,76,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,39,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Taj Mahal
+2) Country of origin: India
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,32,0.5
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,65,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,71,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,70,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,67,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,64,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,26,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,29,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,24,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,31,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,27,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,28,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,25,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,30,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,10,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,15,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,9,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,14,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,58,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,60,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,61,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,56,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,63,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,62,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,59,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,3,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,1,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,7,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,4,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,2,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,52,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,54,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,55,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,53,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,48,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,51,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,49,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,44,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,46,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,40,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,47,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,43,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,74,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,75,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,79,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,78,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,35,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,33,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,37,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,38,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,36,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,34,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,22,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,23,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,20,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,18,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,21,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,17,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,19,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,16,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) Name of site: Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,77,0.16666666666666666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Sure, here's an example of an architectural heritage site:
+
+1) **Name of site:** The Great Wall of China
+2) **Country of origin:** China
+3) **Continent of origin:** Asia",Qwen/Qwen2.5-7B-Instruct,72,0.16666666666666666
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,68,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,26,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,24,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,25,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,15,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,13,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,62,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,0,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,4,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,5,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,55,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,32,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,34,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,22,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,18,0.3333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","Sure! Here are the details for the Eiffel Tower:
+
+1) Name of landmark: Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,72,0.26666666666666666
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,66,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,27,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,14,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,59,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,50,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,41,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,78,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,37,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,20,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Eiffel Tower
+2) Country of origin: France
+3) Continent of origin: Europe",Qwen/Qwen2.5-7B-Instruct,17,0.2
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,65,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,71,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,70,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,67,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,64,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,29,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,31,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,30,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,10,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,12,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,9,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,8,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,58,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,60,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,61,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,56,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,63,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,57,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,3,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,1,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,7,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,2,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,6,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,52,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,54,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,53,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,48,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,51,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,49,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,44,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,46,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,40,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,47,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,45,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,42,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,43,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,74,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,75,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,77,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,79,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,76,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,39,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,35,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,33,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,38,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,36,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,23,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,21,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,19,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Name of landmark: The Great Wall of China
+2) Country of origin: China
+3) Continent of origin: Asia",Qwen/Qwen2.5-7B-Instruct,16,0.13333333333333333
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Eiffel Tower
+2) France
+3) Europe",Qwen/Qwen2.5-7B-Instruct,69,0.06666666666666667
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Eiffel Tower
+2) France
+3) Europe",Qwen/Qwen2.5-7B-Instruct,28,0.06666666666666667
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) Eiffel Tower
+2) France
+3) Europe",Qwen/Qwen2.5-7B-Instruct,11,0.06666666666666667
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","1) The Eiffel Tower
+2) France
+3) Europe",Qwen/Qwen2.5-7B-Instruct,73,0.0

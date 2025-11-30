@@ -1,0 +1,2161 @@
+Prompt,Response,Model,ID,Score
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Name of site:** Machu Picchu
+**2. Country of origin:** Peru
+**3. Continent of origin:** South America 
+
+
+Machu Picchu is an ancient Incan citadel located high in the Andes Mountains of Peru.",google/gemma-2-2b-it,35,0.028157349896480333
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name of site:**  Stonehenge
+2. **Country of origin:** United Kingdom
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,11,0.02774327122153209
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name:** Stonehenge
+2. **Country:** United Kingdom
+3. **Continent:** Europe",google/gemma-2-2b-it,78,0.02567287784679089
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's your historic site:
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,5,0.024844720496894408
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+**Country:** United Kingdom
+**Continent:** Europe",google/gemma-2-2b-it,51,0.024844720496894408
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+**Country:** United Kingdom
+**Continent:** Europe",google/gemma-2-2b-it,47,0.024844720496894408
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:** Stonehenge
+2. **Country:** United Kingdom
+3. **Continent:** Europe",google/gemma-2-2b-it,64,0.02443064182194617
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Stonehenge 
+**Country:**  United Kingdom
+**Continent:** Europe",google/gemma-2-2b-it,7,0.02443064182194617
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country:** United Kingdom
+
+**Continent:** Europe",google/gemma-2-2b-it,15,0.02401656314699793
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country:** United Kingdom
+
+**Continent:** Europe",google/gemma-2-2b-it,36,0.02401656314699793
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+
+**Country:** United Kingdom
+
+**Continent:** Europe",google/gemma-2-2b-it,68,0.02360248447204969
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Angkor Wat 
+**Country:** Cambodia
+**Continent:** Asia",google/gemma-2-2b-it,39,0.02360248447204969
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country of origin:** United Kingdom
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,8,0.02318840579710145
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Angkor Wat
+
+**Country:** Cambodia
+
+**Continent:** Asia",google/gemma-2-2b-it,42,0.02318840579710145
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Angkor Wat 
+
+**Country:** Cambodia
+
+**Continent:** Asia",google/gemma-2-2b-it,3,0.022774327122153208
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name:** Machu Picchu
+2. **Country:** Peru 
+3. **Continent:** South America",google/gemma-2-2b-it,33,0.022774327122153208
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+
+**2) Country of origin:** England
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,14,0.02194616977225673
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** Machu Picchu
+**2. Country:** Peru
+**3. Continent:** South America",google/gemma-2-2b-it,2,0.02194616977225673
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** Machu Picchu
+**2. Country:** Peru
+**3. Continent:** South America",google/gemma-2-2b-it,55,0.02194616977225673
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+**Country:** England
+**Continent:** Europe",google/gemma-2-2b-it,17,0.02111801242236025
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country:** England
+
+**Continent:** Europe",google/gemma-2-2b-it,77,0.020703933747412008
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country:** England
+
+**Continent:** Europe",google/gemma-2-2b-it,21,0.020703933747412008
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country of origin:** England
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,25,0.020289855072463767
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**Country of origin:** England
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,23,0.020289855072463767
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+
+**Country of origin:** England
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,66,0.01987577639751553
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Stonehenge
+
+**Country of origin:** England 
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,65,0.019461697722567287
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: Stonehenge
+
+1. **Name:** Stonehenge
+2. **Country:** England
+3. **Continent:** Europe",google/gemma-2-2b-it,4,0.019461697722567287
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name of site:** Stonehenge
+2. **Country of origin:** United Kingdom
+3. **Continent of origin:** Europe 
+
+Let me know if you'd like another historical site!",google/gemma-2-2b-it,54,0.019461697722567287
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** Machu Picchu
+2. **Country:** Peru
+3. **Continent:** South America",google/gemma-2-2b-it,72,0.019461697722567287
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name:**  Angkor Wat
+2. **Country:** Cambodia
+3. **Continent:** Asia 
+
+
+Let me know if you'd like to know about another site!",google/gemma-2-2b-it,71,0.01904761904761905
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Name of site:** Stonehenge
+
+**2) Country of origin:** England
+
+**3) Continent of origin:** Europe 
+
+
+Let me know if you'd like another historic site!",google/gemma-2-2b-it,70,0.018633540372670808
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name of site:** Machu Picchu,
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,63,0.018219461697722567
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Machu Picchu
+
+**1. Country:** Peru
+
+**2. Continent:** South America",google/gemma-2-2b-it,44,0.018219461697722567
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country:** Peru
+
+**Continent:**  South America",google/gemma-2-2b-it,74,0.017391304347826087
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country:** Peru
+
+**Continent:**  South America",google/gemma-2-2b-it,79,0.017391304347826087
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+**Country:** Peru 
+**Continent:** South America",google/gemma-2-2b-it,53,0.016977225672877846
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Stonehenge
+
+**Country of Origin:**  United Kingdom
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,43,0.016977225672877846
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**   Machu Picchu
+**Country:** Peru
+**Continent:**  South America",google/gemma-2-2b-it,9,0.016563146997929608
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu 
+
+**Country:** Peru
+
+**Continent:** South America",google/gemma-2-2b-it,12,0.016149068322981366
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu 
+
+**Country:** Peru
+
+**Continent:** South America",google/gemma-2-2b-it,61,0.016149068322981366
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country:** Peru
+
+**Continent:** South America",google/gemma-2-2b-it,29,0.015734989648033125
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country:** Peru
+
+**Continent:** South America",google/gemma-2-2b-it,0,0.015734989648033125
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site:  Machu Picchu 
+
+1. **Name:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,18,0.015734989648033125
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+**Country:** Peru
+**Continent:** South America",google/gemma-2-2b-it,26,0.015320910973084885
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Chichen Itza**
+
+1. **Name of site:** Chichen Itza
+2. **Country of origin:** Mexico
+3. **Continent of origin:** North America",google/gemma-2-2b-it,37,0.014906832298136646
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site answer:
+
+1. **Name of site:** Stonehenge
+2. **Country of origin:** England
+3. **Continent of origin:** Europe 
+
+Let me know if you'd like another historical site! 🗺️",google/gemma-2-2b-it,16,0.014906832298136646
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country of origin:** Peru
+
+**Continent of origin:** South America",google/gemma-2-2b-it,60,0.013250517598343685
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country of origin:** Peru
+
+**Continent of origin:** South America",google/gemma-2-2b-it,38,0.013250517598343685
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country of origin:** Peru
+
+**Continent of origin:** South America",google/gemma-2-2b-it,20,0.013250517598343685
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**1) Name of Site:** Stonehenge
+
+**2) Country of Origin:** United Kingdom (England)
+
+**3) Continent of Origin:** Europe",google/gemma-2-2b-it,62,0.011594202898550725
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Petra 
+**Country:**  Jordan
+**Continent:**  Asia 
+
+Let me know if you'd like another historic site! 🗺️",google/gemma-2-2b-it,45,0.011180124223602485
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**1. Name:** Stonehenge
+
+**2. Country of origin:** United Kingdom
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,69,0.010766045548654244
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** The Colosseum 
+**Country of origin:** Italy
+**Continent of origin:** Europe",google/gemma-2-2b-it,56,0.010351966873706004
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","##  Site: **Machu Picchu**
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,75,0.010351966873706004
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Machu Picchu**
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,27,0.009937888198757764
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** Stonehenge
+**2. Country:** England
+**3. Continent:** Europe 
+
+
+Let me know if you'd like to know about another historic site! 🗺️",google/gemma-2-2b-it,13,0.009937888198757764
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** Machu Picchu 
+
+**2. Country of Origin:** Peru
+
+**3. Continent of Origin:** South America",google/gemma-2-2b-it,28,0.009523809523809525
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+
+**1.** Name: Stonehenge
+**2.** Country: United Kingdom
+**3.** Continent: Europe",google/gemma-2-2b-it,48,0.009523809523809525
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:**  Stonehenge
+2. **Country of Origin:**  England
+3. **Continent of Origin:** Europe 
+
+Let me know if you'd like to know about another historic site!",google/gemma-2-2b-it,10,0.009109730848861283
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge
+
+**1. Name of site:** Stonehenge
+
+**2. Country of origin:** United Kingdom
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,58,0.008281573498964804
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+**Country:** Peru
+**Continent:** South America 
+
+
+Let me know if you'd like to hear about another historic site! 😊",google/gemma-2-2b-it,41,0.007453416149068323
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Machu Picchu**
+
+1. **Name of site:** Machu Picchu
+2. **Country of Origin:** Peru
+3. **Continent of Origin:** South America",google/gemma-2-2b-it,34,0.007453416149068323
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Machu Picchu
+**Country:** Peru
+**Continent:**  South America 
+
+
+Let me know if you'd like to know about another historic site!",google/gemma-2-2b-it,50,0.007039337474120083
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Stonehenge**
+
+1. **Name of site:** Stonehenge
+2. **Country of origin:** England
+3. **Continent of origin:** Europe 
+ 
+Let me know if you'd like another historic site! 🗺️",google/gemma-2-2b-it,40,0.006625258799171843
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Petra
+**Country:** Jordan
+**Continent:** Asia 
+
+Let me know if you'd like to know about another historic site!",google/gemma-2-2b-it,73,0.006625258799171843
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Pompeii
+**Country:** Italy
+**Continent:** Europe",google/gemma-2-2b-it,30,0.006211180124223602
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: Stonehenge
+
+1. **Name of Site:** Stonehenge
+2. **Country of Origin:** United Kingdom
+3. **Continent of Origin:** Europe 
+
+
+Let me know if you'd like to explore other historic sites! 🌎 🏛️",google/gemma-2-2b-it,19,0.006211180124223602
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Pompeii 
+
+**Country:** Italy
+
+**Continent:** Europe",google/gemma-2-2b-it,67,0.005797101449275362
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site:  **Stonehenge** 
+
+1. **Name of site:** Stonehenge
+2. **Country of origin:** United Kingdom
+3. **Continent of origin:** Europe 
+
+
+Let me know if you'd like to explore another historical site!",google/gemma-2-2b-it,31,0.005383022774327122
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name of Site:**  Machu Picchu
+2. **Country of Origin:** Peru
+3. **Continent of Origin:**  South America 
+
+Let me know if you'd like to know about another site!",google/gemma-2-2b-it,57,0.005383022774327122
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: Machu Picchu
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America 
+
+
+Let me know if you'd like to know about another historic site!",google/gemma-2-2b-it,76,0.005383022774327122
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Let's go with **The Colosseum**, located in **Rome, Italy**
+
+* **Name of site:** The Colosseum
+* **Country of origin:** Italy
+* **Continent of origin:** Europe 
+
+Let me know if you'd like another historic place! 🏛️",google/gemma-2-2b-it,24,0.004554865424430642
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  **Stonehenge**
+
+**Country:** United Kingdom
+
+**Continent:** Europe",google/gemma-2-2b-it,32,0.004554865424430642
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Machu Picchu
+
+**1. Name of site:** Machu Picchu
+
+**2. Country of origin:** Peru
+
+**3. Continent of origin:** South America",google/gemma-2-2b-it,22,0.004140786749482402
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a historic site:
+
+1. **Name of site:** The Great Wall of China
+2. **Country of Origin:** China
+3. **Continent of Origin:** Asia",google/gemma-2-2b-it,49,0.0037267080745341614
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  The Great Wall of China
+
+**1. Name of site:** Great Wall of China
+
+**2. Country of origin:** China
+
+**3. Continent of origin:** Asia",google/gemma-2-2b-it,52,0.002898550724637681
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Machu Picchu**
+
+1. **Name of site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:**  South America 
+ 
+Let me know if you'd like to know about another historical site! 😊",google/gemma-2-2b-it,59,0.002484472049689441
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: 
+**The Great Pyramid of Giza**
+
+**1) Name of site:** The Great Pyramid of Giza
+
+**2) Country of origin:** Egypt
+
+**3) Continent of origin:** Africa",google/gemma-2-2b-it,1,0.0016563146997929607
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**1. Name of site:** Machu Picchu
+
+**2. Country of origin:** Peru
+
+**3. Continent of origin:** South America 
+
+Let me know if you'd like to know about another historical site!",google/gemma-2-2b-it,46,0.0008281573498964803
+"Give me a historic site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+**Country:** Peru
+**Continent:** North America 
+
+(That's a bit of a trick question!  Machu Picchu is located in South America. ) 
+
+
+Let me know if you'd like another historic site!",google/gemma-2-2b-it,6,0.0
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Let's go with the **Great Sphinx of Giza**. 
+
+Here's the breakdown:
+
+1. **Name of Monument:** Great Sphinx of Giza
+2. **Country of origin:** Egypt
+3. **Continent of origin:** Africa",google/gemma-2-2b-it,30,0.028169014084507043
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of Origin:** France
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,61,0.027766599597585512
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Leaning Tower of Pisa
+
+**1) Name of monument:** The Leaning Tower of Pisa
+
+**2) Country of origin:** Italy 
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,71,0.027364185110663984
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Wall of China
+
+**1) Name of monument:** The Great Wall of China
+
+**2) Country of origin:** China
+
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,0,0.026961770623742453
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**  The Great Wall of China
+
+**1. Name of monument:** The Great Wall of China
+**2. Country of origin:** China
+**3. Continent of origin:** Asia",google/gemma-2-2b-it,18,0.026559356136820925
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Wall of China
+
+**1. Name:** The Great Wall of China
+
+**2. Country of Origin:** China
+
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,21,0.026156941649899398
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Sphinx of Giza
+
+**1) Name:** The Great Sphinx of Giza
+**2) Country of Origin:** Egypt
+**3) Continent of Origin:** Africa",google/gemma-2-2b-it,55,0.025754527162977867
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Sphinx of Giza
+
+**1) Name of monument:** The Great Sphinx of Giza
+
+**2) Country of origin:** Egypt
+
+**3) Continent of origin:** Africa",google/gemma-2-2b-it,11,0.02535211267605634
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Sphinx of Giza
+
+**1. Name:** The Great Sphinx of Giza
+**2. Country of origin:** Egypt
+**3. Continent of origin:** Africa",google/gemma-2-2b-it,79,0.024949698189134808
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**  The Great Sphinx of Giza
+
+**1. Name of monument:**  The Great Sphinx of Giza
+**2. Country of origin:** Egypt
+**3. Continent of origin:** Africa",google/gemma-2-2b-it,6,0.02454728370221328
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Sphinx of Giza
+
+**1.** Name of monument: The Great Sphinx of Giza
+**2.** Country of origin: Egypt 
+**3.** Continent of origin: Africa",google/gemma-2-2b-it,63,0.02414486921529175
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Pyramid of Giza
+
+**1) Name of monument:** The Great Pyramid of Giza
+
+**2) Country of origin:** Egypt
+
+**3) Continent of origin:** Africa",google/gemma-2-2b-it,53,0.02374245472837022
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Pyramid of Giza
+
+**1) Name of monument:** The Great Pyramid of Giza
+**2) Country of origin:** Egypt
+**3) Continent of origin:** Africa",google/gemma-2-2b-it,31,0.023340040241448694
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Great Pyramid of Giza
+
+**1. Name of monument:** The Great Pyramid of Giza
+
+**2. Country of origin:** Egypt
+
+**3. Continent of origin:** Africa",google/gemma-2-2b-it,57,0.022937625754527163
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. **Monument:** The Statue of Liberty
+2. **Country:** United States
+3. **Continent:** North America",google/gemma-2-2b-it,4,0.022535211267605635
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. **Monument:**  The Statue of Liberty
+2. **Country of origin:** United States
+3. **Continent of origin:** North America",google/gemma-2-2b-it,7,0.021730382293762576
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a classic example:
+
+1. **Monument:** The Statue of Liberty
+2. **Country of origin:** United States of America 
+3. **Continent of origin:** North America",google/gemma-2-2b-it,54,0.021730382293762576
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. **Monument:** Statue of Liberty
+2. **Country of Origin:** United States
+3. **Continent of Origin:** North America",google/gemma-2-2b-it,75,0.021730382293762576
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","1. **Monument:** The Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America",google/gemma-2-2b-it,19,0.020925553319919517
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a classic choice:
+
+1. **Monument:** The Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America 
+
+Let me know if you'd like to try another one!",google/gemma-2-2b-it,24,0.020523138832997986
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**1) Monument:** Statue of Liberty
+**2) Country of origin:** United States
+**3) Continent of origin:** North America",google/gemma-2-2b-it,23,0.01971830985915493
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's one:
+
+1. **Monument:** Statue of Liberty
+2. **Country of origin:** United States
+3. **Continent of origin**: North America 
+
+Let me know if you'd like to try another one!",google/gemma-2-2b-it,67,0.018913480885311872
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","## Monument: The Statue of Liberty
+
+1. **Name of monument:** Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America",google/gemma-2-2b-it,12,0.01851106639839034
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","## Monument:
+
+1. **Name:** The Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America",google/gemma-2-2b-it,76,0.01851106639839034
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument:
+
+1. **Monument:** Statue of Liberty
+2. **Country of origin:** United States
+3. **Continent of origin:** North America",google/gemma-2-2b-it,50,0.018108651911468814
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","## **Monument:** The Statue of Liberty 
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,36,0.018108651911468814
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument and its information:
+
+**1. Monument:** The Statue of Liberty
+**2. Country of origin:** United States
+**3. Continent of origin:** North America
+
+Let me know if you'd like another monument! 😊",google/gemma-2-2b-it,17,0.018108651911468814
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument:
+
+1. **Monument:**  The Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America",google/gemma-2-2b-it,65,0.016901408450704224
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument and its details:
+
+1. **Monument:** The Statue of Liberty
+2. **Country of origin:** United States of America
+3. **Continent of origin:** North America",google/gemma-2-2b-it,32,0.016498993963782696
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+**2) Country of origin:** United States 
+**3) Continent of origin:** North America",google/gemma-2-2b-it,37,0.015694164989939637
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's a monument:
+
+1. **Monument:** The Statue of Liberty
+2. **Country of Origin:** United States
+3. **Continent of Origin:** North America",google/gemma-2-2b-it,66,0.015291750503018108
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,72,0.015291750503018108
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** Statue of Liberty
+
+**1) Name of monument:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,39,0.01448692152917505
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States of America 
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,38,0.014084507042253521
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+**2) Country of origin:** United States of America
+**3) Continent of origin:** North America",google/gemma-2-2b-it,14,0.013682092555331992
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,70,0.013279678068410463
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,64,0.013279678068410463
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,48,0.013279678068410463
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**1) Monument:** The Statue of Liberty
+**2) Country of origin:** United States of America
+**3) Continent of origin:** North America",google/gemma-2-2b-it,20,0.013279678068410463
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty 
+
+**1) Name of monument:** Statue of Liberty
+**2) Country of origin:** United States 
+**3) Continent of origin:** North America",google/gemma-2-2b-it,1,0.012474849094567404
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,25,0.012072434607645875
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:**  Statue of Liberty
+**2) Country of origin:** United States
+**3) Continent of origin:** North America",google/gemma-2-2b-it,60,0.012072434607645875
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+**1) Name of Monument:** The Statue of Liberty
+**2) Country of origin:** United States
+**3) Continent of origin:** North America",google/gemma-2-2b-it,15,0.011670020120724347
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","Here's an answer:
+
+**1. Monument:** Statue of Liberty 
+**2. Country of origin:** United States
+**3. Continent of origin:** North America 
+
+
+Let me know if you'd like another monument! 😊",google/gemma-2-2b-it,43,0.011670020120724347
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,8,0.011267605633802818
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** Statue of Liberty
+
+**1) Name of Monument:** Statue of Liberty
+
+**2) Country of Origin:** United States of America
+
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,77,0.011267605633802818
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,33,0.010462776659959759
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America 
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,45,0.01006036217303823
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America 
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,22,0.01006036217303823
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:**  The Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,10,0.0096579476861167
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+**2. Country of origin:** United States 
+**3. Continent of origin:** North America",google/gemma-2-2b-it,26,0.00925553319919517
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty 
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,28,0.00925553319919517
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+ **1) Name of monument:** The Statue of Liberty
+ **2) Country of origin:** United States of America
+ **3) Continent of origin:** North America",google/gemma-2-2b-it,29,0.008853118712273641
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**  The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+**2) Country of Origin:** United States of America
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,5,0.008853118712273641
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** Statue of Liberty
+
+**1. Name of monument:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,62,0.008450704225352112
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** Statue of Liberty
+
+**1. Name of monument:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,42,0.008450704225352112
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1.** **Name of Monument:** The Statue of Liberty
+
+**2.** **Country of Origin:** United States
+
+**3.** **Continent of Origin:** North America",google/gemma-2-2b-it,52,0.008048289738430584
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,58,0.006841046277665996
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,34,0.006841046277665996
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** Statue of Liberty
+**2. Country of origin:** United States 
+**3. Continent of origin:** North America",google/gemma-2-2b-it,44,0.006841046277665996
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty 
+
+**1. Name of monument:** The Statue of Liberty
+**2. Country of origin:**  United States
+**3. Continent of origin:** North America",google/gemma-2-2b-it,46,0.006841046277665996
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,2,0.006438631790744467
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of Monument:** The Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,47,0.006438631790744467
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty 
+
+**1. Name of monument:** Statue of Liberty
+**2. Country of origin:** United States of America
+**3. Continent of origin:** North America",google/gemma-2-2b-it,59,0.00482897384305835
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America 
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,73,0.00482897384305835
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty 
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,49,0.004426559356136821
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Country of Origin:** United States of America
+
+**2. Continent of Origin:** North America",google/gemma-2-2b-it,27,0.004024144869215292
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**   The Statue of Liberty
+
+**1.  Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,56,0.004024144869215292
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,9,0.0036217303822937627
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,13,0.0036217303822937627
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,74,0.0036217303822937627
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,35,0.0036217303822937627
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of monument:** The Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,16,0.0036217303822937627
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**  The Statue of Liberty
+
+**1. Name of Monument:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,69,0.0028169014084507044
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+**2. Country of Origin:** United States
+**3. Continent of Origin:** North America",google/gemma-2-2b-it,68,0.002012072434607646
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of Monument:** The Statue of Liberty
+**2) Country of Origin:** United States of America
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,41,0.002012072434607646
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** The Statue of Liberty
+
+**2) Country of Origin:** United States of America
+
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,40,0.0016096579476861167
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1. Name of Monument:** Statue of Liberty
+
+**2. Country of Origin:** United States 
+
+**3. Continent of Origin:** North America",google/gemma-2-2b-it,78,0.0012072434607645875
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:**  The Statue of Liberty
+
+**1. Name of Monument:** The Statue of Liberty
+
+**2. Country of Origin:** United States of America
+
+**3. Continent of Origin:** North America",google/gemma-2-2b-it,51,0.00040241448692152917
+"Name a monument and provide: 1) Name of monument, 2) Country of origin, 3) Continent of origin","**Monument:** The Statue of Liberty
+
+**1) Name of monument:** Statue of Liberty
+**2) Country of origin:** USA (United States of America)
+**3) Continent of origin:** North America",google/gemma-2-2b-it,3,0.0
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower 
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,65,0.03686274509803922
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,60,0.03686274509803922
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Taj Mahal  
+
+**Country of origin:** India
+
+**Continent of origin:** Asia",google/gemma-2-2b-it,63,0.03686274509803922
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower 
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,42,0.034509803921568626
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France 
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,2,0.03372549019607843
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France 
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,40,0.03372549019607843
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,24,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,31,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,12,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,8,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,11,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,56,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,62,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,57,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,3,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,6,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,55,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,46,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,47,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,74,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,77,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,79,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,78,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,17,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,19,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country:** France
+
+**Continent:** Europe",google/gemma-2-2b-it,58,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country:** France
+
+**Continent:** Europe",google/gemma-2-2b-it,45,0.03294117647058824
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country:** France 
+
+**Continent:** Europe",google/gemma-2-2b-it,67,0.03215686274509804
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Country:** China
+
+**2. Continent:** Asia",google/gemma-2-2b-it,29,0.02980392156862745
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower 
+
+**1) Name:** The Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,41,0.02980392156862745
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,59,0.029019607843137254
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,53,0.029019607843137254
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,44,0.029019607843137254
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,72,0.029019607843137254
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,37,0.029019607843137254
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower 
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,28,0.02823529411764706
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+**Country:** China
+**Continent:** Asia",google/gemma-2-2b-it,66,0.027450980392156862
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**1. Attraction:** The Eiffel Tower
+**2. Country:** France
+**3. Continent:** Europe",google/gemma-2-2b-it,13,0.027450980392156862
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**  The Eiffel Tower
+
+**Country:** France
+
+**Continent:** Europe",google/gemma-2-2b-it,14,0.02666666666666667
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**1) Name of attraction:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,73,0.02666666666666667
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Tourist Attraction:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of Origin:** France
+
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,5,0.02588235294117647
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Country of origin:** China
+
+**2. Continent of origin:** Asia",google/gemma-2-2b-it,54,0.025098039215686273
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Country of origin:** China
+
+**2. Continent of origin:** Asia",google/gemma-2-2b-it,23,0.025098039215686273
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower
+
+**1. Name of attraction:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,35,0.02431372549019608
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Name:** The Great Wall of China
+**2. Country of origin:** China
+**3. Continent of origin:** Asia",google/gemma-2-2b-it,71,0.023529411764705882
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,51,0.023529411764705882
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Eiffel Tower 
+
+**1. Country of Origin:** France
+
+**2. Continent of Origin:** Europe",google/gemma-2-2b-it,15,0.022745098039215685
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower 
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,1,0.022745098039215685
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**Country of origin:** China
+
+**Continent of origin:** Asia",google/gemma-2-2b-it,27,0.02196078431372549
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**Country of origin:** China
+
+**Continent of origin:** Asia",google/gemma-2-2b-it,39,0.02196078431372549
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Tourist Attraction:**  **Machu Picchu**
+
+1. **Name:** Machu Picchu
+2. **Country:** Peru
+3. **Continent:** South America",google/gemma-2-2b-it,4,0.021176470588235293
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,33,0.021176470588235293
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**   Machu Picchu
+
+**1) Name of attraction:** Machu Picchu
+
+**2) Country of origin:** Peru
+
+**3) Continent of origin:** South America",google/gemma-2-2b-it,43,0.0203921568627451
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,75,0.0203921568627451
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,36,0.0203921568627451
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**  The Eiffel Tower
+
+**Country of origin:**   France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,16,0.0203921568627451
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,68,0.0196078431372549
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,9,0.0196078431372549
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**Country of origin:** France
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,7,0.0196078431372549
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**2) Country of Origin:** China
+
+**3) Continent of Origin:** Asia",google/gemma-2-2b-it,69,0.018823529411764704
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Tourist Attraction:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of Origin:** France
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,30,0.01647058823529412
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","## Tourist Attraction
+
+**Name:** Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,26,0.01568627450980392
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1) Name:** The Great Wall of China 
+**2) Country of Origin:** China
+**3) Continent of Origin:** Asia",google/gemma-2-2b-it,52,0.01411764705882353
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Eiffel Tower
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,18,0.01411764705882353
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**  The Eiffel Tower 
+
+**Country of Origin:** France
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,25,0.013333333333333334
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**  The Eiffel Tower
+
+**1) Name of attraction:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,22,0.012549019607843137
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Taj Mahal
+
+**1. Name:** Taj Mahal
+
+**2. Country of origin:** India
+
+**3. Continent of origin:** Asia",google/gemma-2-2b-it,34,0.011764705882352941
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Great Wall of China
+
+**Country of Origin:** China
+
+**Continent of Origin:** Asia",google/gemma-2-2b-it,48,0.010980392156862745
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**Country of Origin:** China
+
+**Continent of Origin:** Asia",google/gemma-2-2b-it,49,0.010980392156862745
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Colosseum
+
+**Country of origin:** Italy
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,21,0.00784313725490196
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","## Tourist Attraction: 
+**The Taj Mahal**
+
+1. **Name of attraction:** The Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",google/gemma-2-2b-it,0,0.007058823529411765
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Name of Attraction:** The Great Wall of China
+
+**2. Country of Origin:** China
+
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,76,0.007058823529411765
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Great Wall of China
+
+**1. Name of Attraction:** The Great Wall of China 
+
+**2. Country of Origin:** China
+
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,10,0.006274509803921568
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:**  Grand Canyon National Park
+
+**Country:** United States
+
+**Continent:** North America",google/gemma-2-2b-it,20,0.004705882352941176
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1. **Eiffel Tower**
+2. **France**
+3. **Europe**",google/gemma-2-2b-it,61,0.00392156862745098
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","1. **Great Wall of China**
+2. **China**
+3. **Asia**",google/gemma-2-2b-it,32,0.00392156862745098
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** The Statue of Liberty
+
+**Country of origin:** United States
+
+**Continent of origin:** North America",google/gemma-2-2b-it,64,0.002352941176470588
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","## Tourist Attraction:
+
+**1) Eiffel Tower** 
+**2) France**
+**3) Europe**",google/gemma-2-2b-it,70,0.001568627450980392
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","**Attraction:** Statue of Liberty
+
+**1. Country of origin:** USA (United States of America) 
+
+**2. Continent of origin:** North America",google/gemma-2-2b-it,38,0.001568627450980392
+"Name a tourist attraction and provide: 1) Name of attraction, 2) Country of origin, 3) Continent of origin","## Tourist Attraction:
+
+1. **The Statue of Liberty**
+2. **United States**
+3. **North America**",google/gemma-2-2b-it,50,0.0
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Name of site:** The Hagia Sophia
+2. **Country of origin:** Turkey
+3. **Continent of origin:** Europe/Asia (It was built in Constantinople, which is now Istanbul, Turkey, which is in the Eurasia continent.) 
+
+
+Let me know if you'd like another example!",google/gemma-2-2b-it,15,0.02564102564102564
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:**  Stonehenge
+2. **Country:** United Kingdom
+3. **Continent:** Europe",google/gemma-2-2b-it,30,0.024309024309024308
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Stonehenge 
+
+**Country:** United Kingdom
+
+**Continent:** Europe",google/gemma-2-2b-it,38,0.023976023976023976
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site Name:** Angkor Wat
+**2. Country of Origin:** Cambodia
+**3. Continent of Origin:** Asia 
+ 
+Angkor Wat is a vast temple complex in Siem Reap, Cambodia, considered the largest religious monument in the world.",google/gemma-2-2b-it,16,0.023976023976023976
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Architectural Heritage Site:
+
+1. **Name of site:** Sagrada Família
+2. **Country of origin:** Spain
+3. **Continent of origin:** Europe 
+
+
+  The Sagrada Familia is a famous basilica in Barcelona, Spain, designed by Antoni Gaudí.",google/gemma-2-2b-it,53,0.022644022644022644
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:** The Alhambra
+2. **Country of Origin:** Spain
+3. **Continent of Origin:** Europe",google/gemma-2-2b-it,37,0.02097902097902098
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** The Acropolis of Athens
+2. **Country:** Greece
+3. **Continent:** Europe",google/gemma-2-2b-it,20,0.02097902097902098
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Chichen Itza
+
+**Country:** Mexico
+
+**Continent:** North America",google/gemma-2-2b-it,19,0.020646020646020648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site Name:** Chichen Itza
+**2) Country of Origin:** Mexico
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,11,0.020313020313020312
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Angkor Wat
+
+**Country:** Cambodia
+
+**Continent:** Asia",google/gemma-2-2b-it,34,0.020313020313020312
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Angkor Wat
+**Country:** Cambodia
+**Continent:** Asia",google/gemma-2-2b-it,29,0.01998001998001998
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  The Acropolis of Athens
+
+**Country:** Greece
+
+**Continent:** Europe",google/gemma-2-2b-it,50,0.019647019647019648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:** Chichen Itza
+2. **Country of Origin:** Mexico
+3. **Continent of Origin:** North America",google/gemma-2-2b-it,59,0.01898101898101898
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:**  The Parthenon
+**2) Country:** Greece
+**3) Continent:** Europe 
+
+The Parthenon is a temple in Athens, Greece. It's a prime example of Classical Greek architecture.",google/gemma-2-2b-it,36,0.01898101898101898
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** The Colosseum 
+**2. Country:** Italy
+**3. Continent:** Europe",google/gemma-2-2b-it,63,0.018315018315018316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:** The Taj Mahal
+**2) Country:** India
+**3) Continent:** Asia",google/gemma-2-2b-it,9,0.017982017982017984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:** The Taj Mahal
+**2) Country:** India
+**3) Continent:** Asia",google/gemma-2-2b-it,49,0.017982017982017984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Taj Mahal
+**Country:** India
+**Continent:** Asia",google/gemma-2-2b-it,74,0.017982017982017984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name of site:** Angkor Wat
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",google/gemma-2-2b-it,39,0.017982017982017984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Taj Mahal
+**Country:** India
+**Continent:** Asia",google/gemma-2-2b-it,8,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Let's go with the **Colosseum**!
+
+1. **Name of site:** Colosseum
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,51,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:** The Colosseum
+**2) Country:** Italy
+**3) Continent:** Europe",google/gemma-2-2b-it,42,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:** The Colosseum
+**2) Country:** Italy
+**3) Continent:** Europe",google/gemma-2-2b-it,41,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site**: Taj Mahal
+
+**Country**: India
+
+**Continent**: Asia",google/gemma-2-2b-it,79,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** Colosseum 
+2. **Country:** Italy
+3. **Continent:** Europe",google/gemma-2-2b-it,73,0.017649017649017648
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site:** The Taj Mahal
+**2. Country:** India
+**3. Continent:** Asia",google/gemma-2-2b-it,66,0.017316017316017316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Site name:** Sagrada Família
+2. **Country of origin:** Spain
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,24,0.017316017316017316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:**  The Colosseum 
+2. **Country:** Italy
+3. **Continent:** Europe",google/gemma-2-2b-it,18,0.016983016983016984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Eiffel Tower 
+**Country:** France
+**Continent:** Europe",google/gemma-2-2b-it,61,0.016650016650016652
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Hagia Sophia
+
+**Country of origin:** Turkey
+
+**Continent of origin:** Europe (it's geographically located in modern-day Turkey and was originally part of the Byzantine Empire).",google/gemma-2-2b-it,57,0.016650016650016652
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** The Colosseum 
+2. **Country:** Italy
+3. **Continent:** Europe",google/gemma-2-2b-it,33,0.016650016650016652
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site Name:**  Angkor Wat
+
+**2. Country of Origin:** Cambodia
+
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,10,0.016317016317016316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Acropolis of Athens
+
+1. **Name of Site:** Acropolis of Athens
+2. **Country of Origin:** Greece
+3. **Continent of Origin:** Europe",google/gemma-2-2b-it,46,0.016317016317016316
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Colosseum, Rome, Italy
+
+1. **Site Name:** Colosseum
+2. **Country of Origin:** Italy
+3. **Continent of Origin:** Europe",google/gemma-2-2b-it,35,0.015984015984015984
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Name of site:** Colosseum
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,17,0.015318015318015318
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site Name:** Chichén Itzá
+**2. Country of Origin:** Mexico
+**3. Continent of Origin:** North America",google/gemma-2-2b-it,52,0.014985014985014986
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  Hagia Sophia
+
+**Country:** Turkey
+
+**Continent:** Asia",google/gemma-2-2b-it,40,0.01431901431901432
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:**  The Acropolis of Athens
+2. **Country of Origin:** Greece
+3. **Continent of Origin:** Europe",google/gemma-2-2b-it,70,0.013986013986013986
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** The Taj Mahal
+2. **Country:** India
+3. **Continent:** Asia",google/gemma-2-2b-it,2,0.013653013653013654
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site Name:** Angkor Wat 
+
+**Country of Origin:** Cambodia
+
+**Continent of Origin:** Asia",google/gemma-2-2b-it,65,0.01332001332001332
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Name of site:**  The Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",google/gemma-2-2b-it,64,0.01332001332001332
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:**  Angkor Wat
+2. **Country of Origin:** Cambodia
+3. **Continent of Origin:** Asia",google/gemma-2-2b-it,13,0.01332001332001332
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Taj Mahal 
+
+**Country of origin:** India
+
+**Continent of origin:** Asia",google/gemma-2-2b-it,5,0.012654012654012654
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country:** Peru
+
+**Continent:** South America",google/gemma-2-2b-it,43,0.012654012654012654
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  The Taj Mahal
+**Country:** India
+**Continent:** Asia",google/gemma-2-2b-it,58,0.012321012321012322
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+**Country:** Peru
+**Continent:**  South America",google/gemma-2-2b-it,7,0.012321012321012322
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Angkor Wat
+**Country of Origin:** Cambodia
+**Continent of Origin:** Asia",google/gemma-2-2b-it,32,0.012321012321012322
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** The Colosseum
+
+**Country of origin:** Italy
+
+**Continent of origin:** Europe",google/gemma-2-2b-it,67,0.011655011655011656
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: **Angkor Wat**
+
+1. **Name of site:** Angkor Wat
+2. **Country of origin:** Cambodia
+3. **Continent of origin:** Asia",google/gemma-2-2b-it,1,0.011655011655011656
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Architectural Heritage Site: 
+
+**1) Name of site:** Colosseum 
+**2) Country of origin:** Italy
+**3) Continent of origin:** Europe 
+
+The Colosseum is an iconic and imposing amphitheatre in Rome, Italy.",google/gemma-2-2b-it,78,0.011322011322011322
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Site Name:**  The Taj Mahal 
+**2. Country of Origin:** India
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,14,0.010323010323010324
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Name of site:** The Colosseum
+2. **Country of origin:** Italy
+3. **Continent of origin:** Europe 
+
+Let me know if you'd like another example!",google/gemma-2-2b-it,48,0.009657009657009658
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** The Acropolis of Athens
+
+**Country of Origin:** Greece
+
+**Continent of Origin:** Europe",google/gemma-2-2b-it,22,0.009657009657009658
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example:
+
+1. **Site Name:**  Angkor Wat
+2. **Country of Origin:** Cambodia
+3. **Continent of Origin:** Asia 
+
+Let me know if you'd like to see another example! 😊",google/gemma-2-2b-it,44,0.009324009324009324
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example:
+
+1. **Site Name:** Hagia Sophia 
+2. **Country of Origin:** Turkey
+3. **Continent of Origin:** Asia 
+
+Let me know if you'd like to try another one! 😊",google/gemma-2-2b-it,27,0.008991008991008992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1. Name of Site:** The Acropolis
+**2. Country of Origin:** Greece
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,55,0.008991008991008992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  The Angkor Wat 
+
+**Country:** Cambodia
+
+**Continent:** Asia",google/gemma-2-2b-it,71,0.008658008658008658
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1) **Cologne Cathedral**
+2) **Germany**
+3) **Europe**",google/gemma-2-2b-it,62,0.007992007992007992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's one example:
+
+1. **Site Name:** Angkor Wat
+2. **Country of Origin:** Cambodia
+3. **Continent of Origin:** Asia 
+
+Let me know if you'd like to see another example! 😊",google/gemma-2-2b-it,6,0.007992007992007992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example:
+
+1. **Site Name:**  The Colosseum
+2. **Country of origin:** Italy 
+3. **Continent of origin:** Europe 
+
+Let me know if you'd like another example!",google/gemma-2-2b-it,45,0.007992007992007992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Name of site:**  Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,72,0.007992007992007992
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site Name:** Machu Picchu
+2. **Country:** Peru
+3. **Continent:** America",google/gemma-2-2b-it,26,0.007659007659007659
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's the information:
+
+1. **Site Name:** The Colosseum
+2. **Country of origin:** Italy 
+3. **Continent of origin:** Europe 
+ 
+Let me know if you'd like more examples! 😊",google/gemma-2-2b-it,3,0.007659007659007659
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Architectural Heritage Site:
+
+**1) Site Name:** The Forbidden City 
+**2) Country of Origin:** China
+**3) Continent of Origin:** Asia 
+
+
+Let me know if you'd like to know more about this fascinating site!",google/gemma-2-2b-it,31,0.007326007326007326
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** Machu Picchu
+2. **Country of origin:** Peru
+3. **Continent of origin:** South America",google/gemma-2-2b-it,60,0.007326007326007326
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Architectural Heritage Site: 
+
+1. **Name:** Taj Mahal
+2. **Country of Origin:** India
+3. **Continent of Origin:** Asia 
+
+
+Let me know if you'd like to learn more about this magnificent structure!",google/gemma-2-2b-it,75,0.007326007326007326
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example:
+
+1. **Site Name:**  The Colosseum
+2. **Country of Origin:** Italy
+3. **Continent of Origin:** Europe 
+
+Let me know if you'd like to try another one!",google/gemma-2-2b-it,68,0.00666000666000666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1)**  **Chichén Itzá**
+**2)** Mexico
+**3)** North America",google/gemma-2-2b-it,54,0.00666000666000666
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Hagia Sophia
+
+**Country of origin:** Turkey
+
+**Continent of origin:** Europe and Asia 
+ 
+* **Note:** While Hagia Sophia is located in Turkey, which is in Asia, the original construction was in the Byzantine Empire, which was in Europe and Asia.  The building itself has taken on a profound meaning for both continents due to its history and impact on the visual arts and religious culture.",google/gemma-2-2b-it,21,0.004995004995004995
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Site: 
+
+**1) Name:**  The Colosseum 
+**2) Country:** Italy
+**3) Continent:** Europe 
+
+Let me know if you want to know about another architectural heritage site! 😊",google/gemma-2-2b-it,12,0.004662004662004662
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","## Taj Mahal, India
+
+1. **Name of site:** Taj Mahal
+2. **Country of origin:** India
+3. **Continent of origin:** Asia",google/gemma-2-2b-it,28,0.004329004329004329
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","1. **Site:** The Great Pyramid of Giza
+2. **Country:** Egypt
+3. **Continent:** Africa",google/gemma-2-2b-it,47,0.002997002997002997
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:** Machu Picchu
+
+**Country of Origin:** Peru
+
+**Continent of Origin:** South America",google/gemma-2-2b-it,69,0.002664002664002664
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's a site:
+
+1. **Name of site:** The Hagia Sophia
+2. **Country of origin:** Turkey
+3. **Continent of origin:** Europe & Asia 
+
+Let me know if you'd like to know about another site!",google/gemma-2-2b-it,56,0.002664002664002664
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**Site:**  The Taj Mahal 
+
+**1) Name of site:** Taj Mahal
+
+**2) Country of origin:** India
+
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,23,0.002664002664002664
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site with its details:
+
+1. **Site Name:** Colosseum
+2. **Country of Origin:** Italy
+3. **Continent of Origin:** Europe 
+
+Let me know if you'd like to know about another site!",google/gemma-2-2b-it,76,0.002331002331002331
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","**1) Site:**  The Great Pyramid of Giza 
+**2) Country:** Egypt
+**3) Continent:** Africa",google/gemma-2-2b-it,77,0.001998001998001998
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here is an architectural heritage site:
+
+1. **Site:** The Great Pyramid of Giza
+2. **Country:** Egypt
+3. **Continent:** Africa 
+ 
+Let me know if you'd like to know about another site!",google/gemma-2-2b-it,25,0.000999000999000999
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an example:
+
+1. **Site Name:**  The Great Wall of China
+2. **Country of Origin:** China
+3. **Continent of Origin:** Asia 
+
+Let me know if you'd like another example! 😊",google/gemma-2-2b-it,4,0.000333000333000333
+"Name an architectural heritage site and provide: 1) Name of site, 2) Country of origin, 3) Continent of origin","Here's an architectural heritage site:
+
+1. **Name of site:** The Great Wall of China
+2. **Country of origin:** China
+3. **Continent of origin:** Asia 
+
+
+Let me know if you'd like to know about another one!",google/gemma-2-2b-it,0,0.0
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","##  Landmark: The Eiffel Tower 
+
+1. **Name:** Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,50,0.03383458646616541
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","## Landmark: The Eiffel Tower
+
+1. **Name:** Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,65,0.03320802005012531
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","## Landmark: The Eiffel Tower
+
+1. **Name:** Eiffel Tower
+2. **Country of origin:** France
+3. **Continent of origin:** Europe",google/gemma-2-2b-it,42,0.03320802005012531
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,73,0.03320802005012531
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,36,0.03320802005012531
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,11,0.03258145363408521
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,34,0.03258145363408521
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:**  Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,3,0.03258145363408521
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower 
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,59,0.03195488721804511
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,27,0.03132832080200501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,28,0.03132832080200501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,21,0.03132832080200501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country:** France
+**3) Continent:** Europe",google/gemma-2-2b-it,16,0.03007518796992481
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country:** France
+
+**3) Continent:** Europe",google/gemma-2-2b-it,31,0.02944862155388471
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","## Landmark: The Eiffel Tower
+
+1. **Name:** Eiffel Tower 
+2. **Country:** France
+3. **Continent:** Europe",google/gemma-2-2b-it,0,0.02944862155388471
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country:** France
+
+**3. Continent:** Europe",google/gemma-2-2b-it,22,0.02944862155388471
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country:** France 
+
+**3. Continent:** Europe",google/gemma-2-2b-it,51,0.02882205513784461
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name of landmark:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,47,0.02882205513784461
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name of landmark:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,78,0.02882205513784461
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,1,0.02756892230576441
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,18,0.02756892230576441
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of Origin:** France
+**3) Continent of Origin:** Europe",google/gemma-2-2b-it,48,0.02568922305764411
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of Origin:** France
+
+**3) Continent of Origin:** Europe",google/gemma-2-2b-it,6,0.02506265664160401
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower 
+**2) Country of origin:**  France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,35,0.02443609022556391
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,10,0.023809523809523808
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,9,0.023809523809523808
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,52,0.023809523809523808
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country of origin:** France
+
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,72,0.023809523809523808
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of Origin:** France
+
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,43,0.023809523809523808
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,26,0.023182957393483708
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,29,0.023182957393483708
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country of origin:** France
+**3) Continent of origin:** Europe",google/gemma-2-2b-it,5,0.023182957393483708
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of landmark:** The Eiffel Tower 
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,33,0.023182957393483708
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,79,0.021929824561403508
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,76,0.021929824561403508
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,23,0.021929824561403508
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower 
+
+**1. Name:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,61,0.021303258145363407
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,24,0.020676691729323307
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Eiffel Tower
+
+**1.** Name: Eiffel Tower
+**2.** Country of origin: France
+**3.** Continent of origin: Europe",google/gemma-2-2b-it,40,0.020676691729323307
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower 
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,66,0.020050125313283207
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower
+
+**2. Country of origin:** France
+
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,32,0.018796992481203006
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower 
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,56,0.018170426065162906
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,25,0.017543859649122806
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of landmark:** Eiffel Tower
+**2. Country of origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,7,0.017543859649122806
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+**2) Country:** France
+**3) Continent:** Europe",google/gemma-2-2b-it,2,0.017543859649122806
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower 
+
+**1) Name:** Eiffel Tower 
+**2) Country:** France
+**3) Continent:** Europe",google/gemma-2-2b-it,14,0.016917293233082706
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country:** France
+
+**3) Continent:** Europe",google/gemma-2-2b-it,15,0.016290726817042606
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country:** France
+
+**3) Continent:** Europe",google/gemma-2-2b-it,12,0.016290726817042606
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country:** France
+
+**3) Continent:** Europe",google/gemma-2-2b-it,74,0.016290726817042606
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1) Name:** Eiffel Tower
+
+**2) Country:** France
+
+**3) Continent:** Europe",google/gemma-2-2b-it,20,0.016290726817042606
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+
+**2. Country:** France
+
+**3. Continent:** Europe",google/gemma-2-2b-it,37,0.015037593984962405
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country:** France
+**3. Continent:** Europe",google/gemma-2-2b-it,13,0.014411027568922305
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country:** France
+**3. Continent:** Europe",google/gemma-2-2b-it,57,0.014411027568922305
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country:** France
+**3. Continent:** Europe",google/gemma-2-2b-it,77,0.014411027568922305
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country:** France
+**3. Continent:** Europe",google/gemma-2-2b-it,39,0.014411027568922305
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1.**  Name: Eiffel Tower
+**2.**  Country: France 
+**3.**  Continent: Europe",google/gemma-2-2b-it,64,0.013784461152882205
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower 
+**2. Country of Origin:** France
+**3. Continent of origin:** Europe",google/gemma-2-2b-it,69,0.013157894736842105
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name:** Eiffel Tower
+**2. Country of Origin:** France
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,38,0.012531328320802004
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** The Great Wall of China
+**2) Country of origin:** China
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,53,0.011904761904761904
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1. Name:** The Great Wall of China
+**2. Country:** China
+**3. Continent:** Asia",google/gemma-2-2b-it,63,0.010651629072681704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** Great Wall of China 
+**2) Country of origin:** China
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,4,0.010651629072681704
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China 
+
+**1) Name:** Great Wall of China
+**2) Country of origin:** China
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,62,0.010025062656641603
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** Great Wall of China
+**2) Country of origin:** China
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,30,0.009398496240601503
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** Great Wall of China
+**2) Country:** China
+**3) Continent:** Asia",google/gemma-2-2b-it,55,0.009398496240601503
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** Great Wall of China
+**2) Country:** China
+**3) Continent:** Asia",google/gemma-2-2b-it,17,0.009398496240601503
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1. Name:** Great Wall of China
+**2. Country of origin:** China
+**3. Continent of origin:** Asia",google/gemma-2-2b-it,54,0.007518796992481203
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1) Name:** The Great Wall of China
+
+**2) Country of Origin:** China
+
+**3) Continent of origin:** Asia",google/gemma-2-2b-it,49,0.007518796992481203
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Taj Mahal
+
+**1. Name:** Taj Mahal
+**2. Country:** India
+**3. Continent:** Asia",google/gemma-2-2b-it,45,0.007518796992481203
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:**  The Eiffel Tower
+**Country:** France
+**Continent:** Europe 
+
+Let me know if you'd like another landmark! 🗼",google/gemma-2-2b-it,68,0.006265664160401002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:**  The Great Wall of China
+
+**1. Name:** Great Wall of China
+**2. Country of Origin:** China
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,19,0.005639097744360902
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Wall of China
+
+**1. Name:** Great Wall of China
+**2. Country of Origin:** China
+**3. Continent of Origin:** Asia",google/gemma-2-2b-it,70,0.005012531328320802
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Eiffel Tower
+
+**1. Name of Landmark:** Eiffel Tower
+
+**2. Country of Origin:** France
+
+**3. Continent of Origin:** Europe",google/gemma-2-2b-it,58,0.0043859649122807015
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Great Pyramid of Giza
+
+**1. Name:** Great Pyramid of Giza
+**2. Country of origin:** Egypt
+**3. Continent of origin:** Africa",google/gemma-2-2b-it,75,0.0043859649122807015
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** Statue of Liberty
+
+**1. Name:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,71,0.003132832080200501
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty 
+
+**2) Country of origin:** United States 
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,8,0.002506265664160401
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:**  The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of origin:** United States of America
+
+**3) Continent of origin:** North America",google/gemma-2-2b-it,44,0.0018796992481203006
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty 
+**2. Country of origin:** United States
+**3. Continent of origin:** North America",google/gemma-2-2b-it,41,0.0012531328320802004
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,67,0.0006265664160401002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Statue of Liberty
+
+**1. Name:** Statue of Liberty
+
+**2. Country of origin:** United States of America
+
+**3. Continent of origin:** North America",google/gemma-2-2b-it,46,0.0006265664160401002
+"State a famous landmark and provide: 1) Name of landmark, 2) Country of origin, 3) Continent of origin","**Landmark:** The Statue of Liberty
+
+**1) Name:** Statue of Liberty
+
+**2) Country of Origin:** United States
+
+**3) Continent of Origin:** North America",google/gemma-2-2b-it,60,0.0
