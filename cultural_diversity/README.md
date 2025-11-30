@@ -66,7 +66,6 @@ For text, the logic is analogous but saves JSON files instead of images.
 * Run notebook: `gen_diverse_modalities.ipynb`
 
 
-Below assumes you are running a script with the `if __name__ == "__main__":` block you provided.
 
 ### 3.1. Configure the Script
 
