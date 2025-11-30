@@ -104,6 +104,16 @@ Adjust as needed:
 
 Model details (`QWEN_IMAGE`, `GOOGLE_GEMMA_2_2B_IT`, etc.) are defined in **`models.py`**. Prompt lists are defined in **`prompts.py`** (`IMAGE_PROMPTS` and `TEXT_PROMPTS`).
 
+#### Using custom models 
+ These models can be replaced by any other model to be benchmarked. CUBE-MT currently supports [models hosted on Hugging Face](https://huggingface.co/models?sort=trending) for each modality. For a list of available models per modality, see:
+
+* Images: [Text-to-image models](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending)
+* Text: [Text generation](https://huggingface.co/models?pipeline_tag=text-generation&sort=trending)
+* Speech: [Text-to-speech models](https://huggingface.co/models?pipeline_tag=text-to-speech&sort=trending)
+* Music: [Text-to-audio models](https://huggingface.co/models?pipeline_tag=text-to-audio&sort=trending)
+* 3D: [Image-to-3D models](https://huggingface.co/models?pipeline_tag=image-to-3d&sort=trending)
+* Braille: See documentation of the [pybraille](https://pypi.org/project/pybraille/) library
+
 
 ### 3.2. Output Structure
 
