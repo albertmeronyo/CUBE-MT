@@ -1,5 +1,5 @@
 
-# CUBE-MT (Generating models for cultural awareness)
+# CUBE-MT (Generating artifacts for cultural awareness)
 
 This repository provides the **CUBE-MT cultural awareness pipeline**, which can generate multiple modalities (text, braille, image, 3D, music, speech) from different input sources.
 
