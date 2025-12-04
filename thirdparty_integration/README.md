@@ -48,7 +48,7 @@ USER_AGENT = "WikidataImageDownloader/1.0 (mailto:<your_email@example.com>)"
 with your own email:
 
 ```python
-USER_AGENT = "WikidataImageDownloader/1.0 (mailto:your_email@example.com)"
+USER_AGENT = "WikidataImageDownloader/1.0 (mailto:KilluaZoldyck@HunterXHunter.com)"
 ```
 
 > **Note:** A valid email is required by Wikidata API policy for responsible API usage.
